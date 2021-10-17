@@ -10,3 +10,5 @@ It should be noted that this analysis uses the 2018 census data as it is the lat
 
 From the analysis it can be seen the 2020 US election does not display the behaviour of a second peak of districts reporting abnormally high voter turnout and percentage of votes for the winning candidate, as seen in the Russian and Ugandan elections.
 
+For further analysis, population density of the congressional districts was taken from [Bloomberg CityLab](https://github.com/theatlantic/citylab-data). A machine learning based decision tree classifier was then trained on the data and was able to predict the congressional district 2020 US electoral result with an accuracy of 82%.
+
