@@ -1,0 +1,127 @@
+County,ShortName,CD,Biden,Trump,Total,
+Alpine,Alpine,4,476,244,741,
+Amador,Amador,4,"8,153","13,585","22,302",
+Butte,Butte,1,"50,426","48,730","102,042",
+Calaveras,Calaveras,4,"10,046","16,518","27,164",
+Colusa,Colusa,3,"3,239","4,559","7,961",
+Del Norte,DelNorte,2,"4,677","6,461","11,452",
+El Dorado,ElDorado,4,"51,621","61,838","116,138",
+Humboldt,Humboldt,2,"44,768","21,770","68,828",
+Imperial,Imperial,51,"34,678","20,847","56,718",
+Inyo,Inyo,8,"4,634","4,620","9,481",
+Kings,Kings,21,"18,699","24,072","43,858",
+Lassen,Lassen,1,"2,799","8,970","11,985",
+Marin,Marin,2,"128,288","24,612","155,801",
+Mariposa,Mariposa,4,"4,088","5,950","10,280",
+Mendocino,Mendocino,2,"28,782","13,267","43,336",
+Merced,Merced,16,"48,991","39,397","90,541",
+Modoc,Modoc,1,"1,150","3,109","4,338",
+Mono,Mono,8,"4,013","2,513","6,737",
+Monterey,Monterey,20,"113,953","46,299","163,883",
+Napa,Napa,5,"49,817","20,676","72,122",
+Plumas,Plumas,1,"4,561","6,445","11,256",
+San Benito,SanBenito,20,"17,628","10,590","28,821",
+San Luis Obispo,SanLuisObispo,24,"88,310","67,436","159,681",
+Santa Barbara,SantaBarbara,24,"129,963","65,736","200,288",
+Shasta,Shasta,1,"30,000","60,789","92,900",
+Sierra,Sierra,1,730,"1,142","1,930",
+Siskiyou,Siskiyou,1,"9,593","13,290","23,450",
+Stanislaus,Stanislaus,10,"105,841","104,145","214,876",
+Sutter,Sutter,3,"17,367","24,375","42,640",
+Tehama,Tehama,1,"8,911","19,141","28,721",
+Trinity,Trinity,2,"2,851","3,188","6,258",
+Tuolumne,Tuolumne,4,"11,978","17,689","30,401",
+Yuba,Yuba,3,"11,230","17,676","29,787",
+,,,,,,
+,Split Counties,,,,,
+Alameda (pt.),Alameda,13,"335,474","33,907","377,198",Alameda Precinct Results
+Alameda (pt.),Alameda,15,"224,221","82,005","312,802",Alameda Precinct Results
+Alameda (pt.),Alameda,17,"57,964","20,397","79,864",Alameda Precinct Results
+Contra Costa (pt.),ContraCosta,5,"37,575","12,029","50,612",Contra Costa Precinct Results
+Contra Costa (pt.),ContraCosta,9,"62,583","37,944","102,709",Contra Costa Precinct Results
+Contra Costa (pt.),ContraCosta,11,"285,019","90,516","383,481",Contra Costa Precinct Results
+Contra Costa (pt.),ContraCosta,15,"31,209","12,389","44,428",Contra Costa Precinct Results
+Fresno (pt.),Fresno,4,"2,092","6,471","8,740",Fresno County SOVC
+Fresno (pt.),Fresno,16,"62,831","27,321","92,101",Fresno County SOVC
+Fresno (pt.),Fresno,21,"31,746","26,318","58,999",Fresno County SOVC
+Fresno (pt.),Fresno,22,"96,356","104,354","204,969",Fresno County SOVC
+Glenn (pt.),Glenn,1,209,799,"1,028",Glenn County Precinct Results
+Glenn (pt.),Glenn,3,"3,786","6,264","10,264",Glenn County Precinct Results
+Kern (pt.),Kern,21,"40,005","22,047","63,560",Kern County SOVC
+Kern (pt.),Kern,23,"93,361","142,437","241,666",Kern County SOVC
+Lake (pt.),Lake,3,"6,736","5,864","12,941",Lake County SOVC
+Lake (pt.),Lake,5,"8,205","7,259","15,859",Lake County SOVC
+Los Angeles (pt.),LosAngeles,23,18823,18049,37831,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,25,154950,119741,280870,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,26,3239,2278,5632,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,27,215992,92774,315046,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,28,252705,97112,356476,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,29,186796,59671,252103,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,30,258152,110422,375563,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,32,184978,93155,283909,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,33,285906,120287,414262,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,34,193874,40552,239944,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,35,35302,13280,49846,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,37,275573,45202,326798,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,38,202355,98345,307370,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,39,53627,34235,89326,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,40,156662,41875,203218,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,43,224694,61138,292083,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,44,188767,46174,240722,Los Angeles County SOVC
+Los Angeles (pt.),LosAngeles,47,136490,51240,192444,Los Angeles County SOVC
+Madera (pt.),Madera,4,"5,532","10,449","16,332",Madera County Precinct Results
+Madera (pt.),Madera,16,"17,636","18,929","37,390",Madera County Precinct Results
+Nevada (pt.),Nevada,1,"28,802","24,517","54,676",Nevada County Precinct Results
+Nevada (pt.),Nevada,4,"7,557","2,262","10,062",Nevada County Precinct Results
+Orange (pt.),Orange,38,4645,3522,8303,Orange County SOVC
+Orange (pt.),Orange,39,115615,101872,222173,Orange County SOVC
+Orange (pt.),Orange,45,228624,181306,418564,Orange County SOVC
+Orange (pt.),Orange,46,150186,78247,233507,Orange County SOVC
+Orange (pt.),Orange,47,67146,63921,133642,Orange County SOVC
+Orange (pt.),Orange,48,199791,193832,401759,Orange County SOVC
+Orange (pt.),Orange,49,48002,53798,103777,Orange County SOVC
+Placer (pt.),Placer,1,"11,255","16,625","28,581",Placer County Precinct Results
+Placer (pt.),Placer,4,"95,614","105,863","206,436",Placer County Precinct Results
+Riverside (pt.),Riverside,36,"173,573","131,304","310,310",Riverside County SOVC
+Riverside (pt.),Riverside,41,"164,574","96,428","266,807",Riverside County SOVC
+Riverside (pt.),Riverside,42,"170,481","198,259","375,949",Riverside County SOVC
+Riverside (pt.),Riverside,50,"19,712","23,153","43,941",Riverside County SOVC
+Sacramento (pt.),Sacramento,3,"6,540","9,151","16,067",Sacramento County SOVC
+Sacramento (pt.),Sacramento,6,"210,602","79,203","297,337",Sacramento County SOVC
+Sacramento (pt.),Sacramento,7,"218,137","164,052","391,993",Sacramento County SOVC
+Sacramento (pt.),Sacramento,9,"5,529","6,999","12,893",Sacramento County SOVC
+San Bernardino (pt.),SanBernardino,8,119122,151318,276947,San Bernardino County SOVC
+San Bernardino (pt.),SanBernardino,27,10674,11314,22414,San Bernardino County SOVC
+San Bernardino (pt.),SanBernardino,31,174178,115221,296238,San Bernardino County SOVC
+San Bernardino (pt.),SanBernardino,35,131037,70072,205499,San Bernardino County SOVC
+San Bernardino (pt.),SanBernardino,39,20848,18332,39833,San Bernardino County SOVC
+San Diego (pt.),SanDiego,49,"169,059","113,251","289,236",San Diego County Precinct Results
+San Diego (pt.),SanDiego,50,"147,129","172,277","326,848",San Diego County Precinct Results
+San Diego (pt.),SanDiego,51,"131,673","55,996","192,092",San Diego County Precinct Results
+San Diego (pt.),SanDiego,52,"257,923","139,172","406,904",San Diego County Precinct Results
+San Diego (pt.),SanDiego,53,"258,866","119,398","386,642",San Diego County Precinct Results
+San Francisco (pt.),SanFrancisco,12,"337,517","46,574","392,046",San Francisco County SOVC
+San Francisco (pt.),SanFrancisco,14,"40,639","9,843","51,412",San Francisco County SOVC
+San Joaquin (pt.),SanJoaquin,9,111988,79159,195371,San Joaquin County SOVC
+San Joaquin (pt.),SanJoaquin,10,49149,41939,93072,San Joaquin County SOVC
+San Mateo (pt.),SanMateo,14,239069,63955,308743,San Mateo County SOVC
+San Mateo (pt.),SanMateo,18,52427,11629,65428,San Mateo County SOVC
+Santa Clara (pt.),SantaClara,17,"166,939","58,863","230,374",Santa Clara County SOVC
+Santa Clara (pt.),SantaClara,18,"217,594","63,052","287,246",Santa Clara County SOVC
+Santa Clara (pt.),SantaClara,19,"228,232","91,063","325,914",Santa Clara County SOVC
+Santa Clara (pt.),SantaClara,20,"5,202","1,634","6,988",Santa Clara County SOVC
+Santa Cruz (pt.),SantaCruz,18,"24,524","7,491","33,009",Santa Cruz County SOVC
+Santa Cruz (pt.),SantaCruz,20,"89,722","19,446","111,787",Santa Cruz County SOVC
+Solano (pt.),Solano,3,77926,52635,133927,Solano County SOVC
+Solano (pt.),Solano,5,53713,16671,71904,Solano County SOVC
+Sonoma (pt.),Sonoma,2,"85,123","26,360","114,182",Sonoma County Precinct Results
+Sonoma (pt.),Sonoma,5,"114,815","35,465","154,070",Sonoma County Precinct Results
+Tulare (pt.),Tulare,21,"3,110","2,422","5,647",Tulare County SOVC
+Tulare (pt.),Tulare,22,"50,111","59,230","111,760",Tulare County SOVC
+Tulare (pt.),Tulare,23,"12,884","15,927","29,425",Tulare County SOVC
+Ventura (pt.),Ventura,24,"3,558","1,638","5,356",Ventura County SOVC
+Ventura (pt.),Ventura,25,"33,471","33,420","68,379",Ventura County SOVC
+Ventura (pt.),Ventura,26,"213,601","126,636","347,665",Ventura County SOVC
+Ventura (pt.),Ventura,30,758,513,1298,Ventura County SOVC
+Yolo (pt.),Yolo,3,"52,982","19,211","74,025",Yolo County SOVC
+Yolo (pt.),Yolo,6,"14,616","8,081","23,239",Yolo County SOVC

@@ -1,0 +1,123 @@
+County,ShortName,CD,Biden,Trump,Total
+Adams,Adams,2,2156,9870,12145
+Allen,Allen,4,14149,33116,47993
+Ashland,Ashland,7,6541,19407,26398
+Ashtabula,Ashtabula,14,16497,26890,44142
+Auglaize,Auglaize,4,4651,20798,25773
+Belmont,Belmont,6,9138,23560,33081
+Brown,Brown,2,4380,16480,21096
+Butler,Butler,8,69613,114392,186675
+Carroll,Carroll,6,3251,10745,14208
+Champaign,Champaign,4,5062,14589,19966
+Clark,Clark,8,24076,39032,64182
+Clermont,Clermont,2,34092,74570,110446
+Clinton,Clinton,15,4697,15488,20522
+Columbiana,Columbiana,6,13359,35726,49854
+Coshocton,Coshocton,7,4125,12325,16739
+Crawford,Crawford,4,4916,15436,20683
+Darke,Darke,8,4731,22004,27128
+Defiance,Defiance,5,5981,13038,19369
+Delaware,Delaware,12,57735,66356,126014
+Fairfield,Fairfield,15,31224,50797,83277
+Fulton,Fulton,5,6664,15731,22765
+Gallia,Gallia,6,2990,10645,13799
+Geauga,Geauga,14,21201,34143,56010
+Greene,Greene,10,34798,52072,88592
+Guernsey,Guernsey,6,4577,13407,18228
+Hancock,Hancock,5,11757,26310,38757
+Hardin,Hardin,5,3062,9949,13247
+Harrison,Harrison,6,1768,5792,7655
+Henry,Henry,5,4062,10479,14760
+Highland,Highland,2,3799,15678,19672
+Hocking,Hocking,15,3880,9737,13819
+Holmes,Holmes,7,1994,10796,12941
+Jackson,Jackson,6,3311,11309,14794
+Jefferson,Jefferson,6,10018,22828,33303
+Knox,Knox,7,8589,22340,31389
+Lake,Lake,14,55514,73278,130484
+Lawrence,Lawrence,6,7489,20306,28123
+Licking,Licking,12,33055,59514,94160
+Logan,Logan,4,5055,17964,23360
+Madison,Madison,15,5698,13835,19848
+Meigs,Meigs,6,2492,8316,10951
+Miami,Miami,8,15663,41371,57955
+Monroe,Monroe,6,1605,5463,7148
+Montgomery,Montgomery,10,135064,129034,268400
+Morgan,Morgan,15,1725,5041,6847
+Morrow,Morrow,12,4048,14077,18452
+Noble,Noble,6,1170,5135,6343
+Paulding,Paulding,5,2213,7086,9461
+Perry,Perry,15,4098,12357,16672
+Pickaway,Pickaway,15,7304,20593,28257
+Pike,Pike,2,3110,9157,12412
+Preble,Preble,8,4493,17022,21809
+Putnam,Putnam,5,3195,16412,19915
+Sandusky,Sandusky,4,10596,18896,30072
+Seneca,Seneca,4,8266,17086,25803
+Shelby,Shelby,4,4465,20422,25248
+Union,Union,4,11141,21669,33445
+Van Wert,VanWert,5,3067,11650,14960
+Vinton,Vinton,15,1331,4632,6027
+Warren,Warren,1,46069,87988,136095
+Washington,Washington,6,9243,22307,32031
+Wayne,Wayne,16,16660,36759,54257
+Williams,Williams,5,4842,13452,18649
+Wood,Wood,5,30617,35757,67577
+Wyandot,Wyandot,5,2733,8462,11388
+,,,,,
+,Split Counties,,,,
+Athens (pt.),Athens,6,457,1535,2017
+Athens (pt.),Athens,15,14315,9327,24031
+Cuyahoga (pt.),Cuyahoga,9,79286,48728,129757
+Cuyahoga (pt.),Cuyahoga,11,222549,48614,273793
+Cuyahoga (pt.),Cuyahoga,14,37378,28977,66998
+Cuyahoga (pt.),Cuyahoga,16,76963,76380,154952
+Erie (pt.),Erie,4,2234,4519,6884
+Erie (pt.),Erie,9,15259,17641,33444
+Fayette (pt.),Fayette,10,2609,7567,10310
+Fayette (pt.),Fayette,15,366,1906,2302
+Franklin (pt.),Franklin,3,231278,93890,330494
+Franklin (pt.),Franklin,12,90453,50069,142579
+Franklin (pt.),Franklin,15,87414,67278,157195
+Hamilton (pt.),Hamilton,1,139878,110445,254131
+Hamilton (pt.),Hamilton,2,106388,67441,176621
+Huron (pt.),Huron,4,4778,9463,14511
+Huron (pt.),Huron,7,2981,9493,12674
+Lorain (pt.),Lorain,4,27528,26190,54564
+Lorain (pt.),Lorain,7,21793,30712,53181
+Lorain (pt.),Lorain,9,26346,22618,49653
+Lucas (pt.),Lucas,5,56959,53992,112829
+Lucas (pt.),Lucas,9,58452,27771,87730
+Mahoning (pt.),Mahoning,6,10226,20493,31014
+Mahoning (pt.),Mahoning,13,47415,39410,87932
+Marion (pt.),Marion,4,7097,15419,22978
+Marion (pt.),Marion,12,1172,3604,4840
+Medina (pt.),Medina,7,12853,24122,37420
+Medina (pt.),Medina,16,26947,40476,68388
+Mercer (pt.),Mercer,4,398,1578,1993
+Mercer (pt.),Mercer,5,2362,8627,11152
+Mercer (pt.),Mercer,8,1270,9247,10608
+Muskingum (pt.),Muskingum,6,3440,10427,14057
+Muskingum (pt.),Muskingum,12,8531,17440,26403
+Ottawa (pt.),Ottawa,5,4014,6817,11045
+Ottawa (pt.),Ottawa,9,4994,7811,12957
+Portage (pt.),Portage,13,20389,20902,41924
+Portage (pt.),Portage,14,8517,12953,21741
+Portage (pt.),Portage,16,6755,12135,19187
+Richland (pt.),Richland,7,6247,19633,26236
+Richland (pt.),Richland,12,11393,21839,33724
+Ross (pt.),Ross,2,6511,11371,18145
+Ross (pt.),Ross,15,4046,10907,15151
+Scioto (pt.),Scioto,2,5157,10033,15379
+Scioto (pt.),Scioto,6,3923,12576,16663
+Stark (pt.),Stark,7,45533,66012,113347
+Stark (pt.),Stark,13,4293,6327,10804
+Stark (pt.),Stark,16,26078,38758,65696
+Summit (pt.),Summit,11,30176,12288,43013
+Summit (pt.),Summit,13,57194,45474,104311
+Summit (pt.),Summit,14,44017,39372,84408
+Summit (pt.),Summit,16,20281,27699,48660
+Trumbull (pt.),Trumbull,13,41954,47824,90924
+Trumbull (pt.),Trumbull,14,2565,7370,10058
+Tuscarawas (pt.),Tuscarawas,6,2839,7984,10970
+Tuscarawas (pt.),Tuscarawas,7,10050,22474,33032

@@ -1,0 +1,155 @@
+County,ShortName,CD,Biden,Trump,Total,
+Alamance,Alamance,13,38825,46056,85941,
+Alexander,Alexander,5,4145,15888,20202,
+Alleghany,Alleghany,5,1486,4527,6068,
+Anson,Anson,9,5789,5321,11184,
+Ashe,Ashe,5,4164,11451,15791,
+Avery,Avery,11,2191,7172,9442,
+Beaufort,Beaufort,3,9633,16437,26274,
+Bertie,Bertie,1,5939,3817,9808,
+Bladen,Bladen,7,7326,9676,17108,
+Brunswick,Brunswick,7,33310,55850,90012,
+Buncombe,Buncombe,11,96515,62412,161154,
+Burke,Burke,5,13118,31019,44533,
+Cabarrus,Cabarrus,8,52162,63237,116892,
+Caldwell,Caldwell,5,10245,32119,42749,
+Camden,Camden,3,1537,4312,5938,
+Carteret,Carteret,3,12093,30028,42615,
+Caswell,Caswell,13,4860,7089,12040,
+Cherokee,Cherokee,11,3583,12628,16394,
+Chowan,Chowan,3,3247,4471,7777,
+Clay,Clay,11,1699,5112,6882,
+Cleveland,Cleveland,5,16955,33798,51237,
+Columbus,Columbus,7,9446,16832,26422,
+Craven,Craven,3,21148,31032,52971,
+Cumberland,Cumberland,8,84469,60032,146813,
+Currituck,Currituck,3,4195,11657,16114,
+Dare,Dare,3,9936,13938,24175,
+Davidson,Davidson,13,22636,64658,88373,
+Davie,Davie,13,6713,18228,25239,
+Duplin,Duplin,3,8767,13793,22694,
+Durham,Durham,4,144688,32459,179376,
+Edgecombe,Edgecombe,1,16089,9206,25452,
+Franklin,Franklin,4,15879,20901,37261,
+Gaston,Gaston,5,40959,73033,115269,
+Gates,Gates,1,2546,3367,5965,
+Graham,Graham,11,905,3710,4659,
+Granville,Granville,4,14565,16647,31542,
+Greene,Greene,1,3832,4874,8744,
+Guilford,Guilford,6,173086,107294,283739,
+Halifax,Halifax,1,15545,10080,25742,
+Haywood,Haywood,11,13144,22834,36457,
+Henderson,Henderson,11,27211,40032,68219,
+Hertford,Hertford,1,7097,3479,10620,
+Hoke,Hoke,9,11804,9453,21600,
+Hyde,Hyde,3,1046,1418,2488,
+Jackson,Jackson,11,9591,11356,21364,
+Johnston,Johnston,7,41257,68353,111139,
+Jones,Jones,3,2197,3280,5521,
+Lenoir,Lenoir,3,13605,14590,28380,
+Lincoln,Lincoln,10,13274,36341,50134,
+Macon,Macon,11,6230,14211,20665,
+Madison,Madison,11,4901,7979,13039,
+Martin,Martin,1,5911,6532,12531,
+McDowell,McDowell,11,5832,16883,22965,
+Mitchell,Mitchell,11,1867,7090,9027,
+Montgomery,Montgomery,8,4327,8411,12840,
+Nash,Nash,1,25947,25827,52192,
+New Hanover,NewHanover,7,66138,63331,131523,
+Northampton,Northampton,1,6069,3989,10105,
+Onslow,Onslow,3,24266,46078,72086,
+Orange,Orange,4,63594,20176,84722,
+Pamlico,Pamlico,3,2713,4849,7621,
+Pasquotank,Pasquotank,3,9832,9770,19847,
+Pender,Pender,7,11723,21956,34117,
+Perquimans,Perquimans,3,2492,4903,7473,
+Person,Person,13,8465,13184,21871,
+Polk,Polk,11,4518,7689,12333,
+Randolph,Randolph,13,15618,56894,73216,
+Richmond,Richmond,9,8754,11830,20742,
+Robeson,Robeson,9,19020,27806,47121,
+Rockingham,Rockingham,10,15992,31301,47735,
+Rowan,Rowan,13,23114,49297,73241,
+Sampson,Sampson,7,10966,17411,28572,
+Scotland,Scotland,9,7186,7473,14758,
+Stanly,Stanly,8,8129,25458,33892,
+Stokes,Stokes,10,5286,20142,25667,
+Surry,Surry,10,8721,27538,36581,
+Swain,Swain,11,2780,4161,7051,
+Transylvania,Transylvania,11,8444,11636,20344,
+Tyrrell,Tyrrell,3,758,1044,1814,
+Union,Union,9,48725,80382,130652,
+Warren,Warren,1,6400,3752,10276,
+Washington,Washington,1,3396,2781,6203,
+Watauga,Watauga,5,17122,14451,32105,
+Wayne,Wayne,1,24215,30709,55465,
+Wilkes,Wilkes,5,7511,27592,35414,
+Wilson,Wilson,1,20754,19581,40677,
+Yadkin,Yadkin,10,3763,15933,19888,
+Yancey,Yancey,11,3688,7516,11331,
+,,,,,,
+,Split Counties,,,,,
+Catawba (pt.),Catawba,5,3649,6390,10162,124
+Catawba (pt.),Catawba,10,22040,50198,73138,899
+Chatham (pt.),Chatham,4,23515,15095,39060,449
+Chatham (pt.),Chatham,13,3272,6091,9454,92
+Forsyth (pt.),Forsyth,6,84171,48107,134066,1789
+Forsyth (pt.),Forsyth,10,28862,36957,66676,856
+Harnett (pt.),Harnett,7,7673,14471,22403,258
+Harnett (pt.),Harnett,8,14420,20706,35780,655
+Iredell (pt.),Iredell,10,33290,66046,100575,1239
+Iredell (pt.),Iredell,13,598,964,1582,20
+Lee (pt.),Lee,8,9382,11291,20909,236
+Lee (pt.),Lee,13,2761,5178,8052,113
+Mecklenburg (pt.),Mecklenburg,9,69933,53887,125542,1722
+Mecklenburg (pt.),Mecklenburg,12,308124,125328,439717,6265
+Moore (pt.),Moore,8,4988,13654,18860,218
+Moore (pt.),Moore,9,15791,23112,39379,476
+Pitt (pt.),Pitt,1,33888,23446,58092,757
+Pitt (pt.),Pitt,3,12993,15297,28696,407
+Rutherford (pt.),Rutherford,5,5300,15409,20908,199
+Rutherford (pt.),Rutherford,11,3835,9482,13466,149
+Vance (pt.),Vance,1,12156,8038,20365,171
+Vance (pt.),Vance,4,275,353,633,5
+Wake (pt.),Wake,2,323249,171017,502490,8224
+Wake (pt.),Wake,4,70087,55180,127159,1892
+,,,,,,
+,Split E/A/P Votes,,,,,
+Catawba (pt.),Catawba,5,0,0,0,0
+Catawba (pt.),Catawba,10,0,0,0,0
+Chatham (pt.),Chatham,4,0,0,0,0
+Chatham (pt.),Chatham,13,0,0,0,0
+Forsyth (pt.),Forsyth,6,0,0,0,0
+Forsyth (pt.),Forsyth,10,0,0,0,0
+Harnett (pt.),Harnett,7,0,0,0,0
+Harnett (pt.),Harnett,8,0,0,0,0
+Iredell (pt.),Iredell,10,0,0,0,0
+Iredell (pt.),Iredell,13,0,0,0,0
+Lee (pt.),Lee,8,0,0,0,0
+Lee (pt.),Lee,13,0,0,0,0
+Mecklenburg (pt.),Mecklenburg,9,0,0,0,0
+Mecklenburg (pt.),Mecklenburg,12,0,0,0,0
+Moore (pt.),Moore,8,0,0,0,0
+Moore (pt.),Moore,9,0,0,0,0
+Pitt (pt.),Pitt,1,269,143,421,8
+Pitt (pt.),Pitt,3,103,94,201,5
+Rutherford (pt.),Rutherford,5,0,0,0,0
+Rutherford (pt.),Rutherford,11,0,0,0,0
+Vance (pt.),Vance,1,0,0,0,0
+Vance (pt.),Vance,4,0,0,0,0
+Wake (pt.),Wake,2,0,0,0,0
+Wake (pt.),Wake,4,0,0,0,0
+,,,,,,
+Total E/A/P Votes,,,,,,
+Catawba (pt.),Catawba,EV,0,0,0,0
+Chatham (pt.),Chatham,EV,0,0,0,0
+Forsyth (pt.),Forsyth,EV,0,0,0,0
+Harnett (pt.),Harnett,EV,0,0,0,0
+Iredell (pt.),Iredell,EV,0,0,0,0
+Lee (pt.),Lee,EV,0,0,0,0
+Mecklenburg (pt.),Mecklenburg,EV,0,0,0,0
+Moore (pt.),Moore,EV,0,0,0,0
+Pitt (pt.),Pitt,EV,372,237,622,13
+Rutherford (pt.),Rutherford,EV,0,0,0,0
+Vance (pt.),Vance,EV,0,0,0,0
+Wake (pt.),Wake,EV,0,0,0,0

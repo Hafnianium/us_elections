@@ -1,0 +1,100 @@
+County,ShortName,CD,Biden,Trump,Total,
+Adair,Adair,2,"1,387","5,585","7,108",
+Alfalfa,Alfalfa,3,232,"1,978",2262,
+Atoka,Atoka,2,765,"4,557",5389,
+Beaver,Beaver,3,190,"1,968",2178,
+Beckham,Beckham,3,"1,048","6,767","7,948",
+Blaine,Blaine,3,688,"3,136",3901,
+Bryan,Bryan,2,"3,323","12,344","15,976",
+Caddo,Caddo,3,"2,670","7,013","9,859",
+Carter,Carter,4,"4,470","14,699","19,479",
+Cherokee,Cherokee,2,"6,027","11,223","17,714",
+Choctaw,Choctaw,2,"1,082","4,698","5,832",
+Cimarron,Cimarron,3,70,970,"1,054",
+Cleveland,Cleveland,4,"49,827","66,677","119,778",
+Coal,Coal,2,374,"2,091","2,524",
+Comanche,Comanche,4,"13,747","20,905","35,631",
+Cotton,Cotton,4,393,"2,117","2,572",
+Craig,Craig,2,"1,217","4,686","6,032",
+Custer,Custer,3,"2,369","8,060","10,691",
+Delaware,Delaware,2,"3,472","13,557","17,245",
+Dewey,Dewey,3,214,"2,124","2,359",
+Ellis,Ellis,3,162,"1,688","1,873",
+Garfield,Garfield,3,"4,919","16,970","22,430",
+Garvin,Garvin,4,"1,865","8,878","10,922",
+Grady,Grady,4,"4,144","18,538","23,101",
+Grant,Grant,3,280,"1,916","2,226",
+Greer,Greer,3,328,"1,605","1,973",
+Harmon,Harmon,3,177,747,933,
+Harper,Harper,3,136,"1,327","1,487",
+Haskell,Haskell,2,783,"4,165","5,014",
+Hughes,Hughes,2,919,"3,875","4,857",
+Jackson,Jackson,3,"1,646","6,392","8,221",
+Jefferson,Jefferson,4,319,"2,026","2,385",
+Johnston,Johnston,2,738,"3,441","4,251",
+Kay,Kay,3,"4,040","12,834","17,249",
+Kingfisher,Kingfisher,3,854,"5,521","6,465",
+Kiowa,Kiowa,3,699,"2,673","3,427",
+Latimer,Latimer,2,762,"3,437","4,249",
+Leflore,Leflore,2,"3,299","15,213","18,805",
+Lincoln,Lincoln,3,"2,609","12,013","14,888",
+Logan,Logan,3,"5,455","15,608","21,574",
+Love,Love,4,711,"3,305","4,076",
+Major,Major,3,320,"3,084","3,467",
+Marshall,Marshall,2,"1,100","4,891","6,064",
+Mayes,Mayes,2,"3,581","12,749","16,626",
+Mcclain,Mcclain,4,"3,582","15,295","19,236",
+Mccurtain,Mccurtain,2,"1,858","9,485","11,467",
+Mcintosh,Mcintosh,2,"2,031","6,172","8,335",
+Murray,Murray,4,"1,156","4,612","5,894",
+Muskogee,Muskogee,2,"8,027","16,526","25,081",
+Noble,Noble,3,"1,003","3,821","4,938",
+Nowata,Nowata,2,712,"3,610","4,391",
+Okfuskee,Okfuskee,2,896,"3,058","4,038",
+Okmulgee,Okmulgee,2,"4,357","9,668","14,313",
+Osage,Osage,3,"6,002","14,121","20,538",
+Ottawa,Ottawa,2,"2,686","8,545","11,438",
+Pawnee,Pawnee,3,"1,363","5,267","6,786",
+Payne,Payne,3,"10,904","17,813","29,643",
+Pittsburg,Pittsburg,2,"3,768","13,851","17,924",
+Pontotoc,Pontotoc,4,"4,117","10,805","15,320",
+Pottawatomie,Pottawatomie,5,"7,275","20,240","28,185",
+Pushmataha,Pushmataha,2,668,"4,016","4,739",
+Roger Mills,RogerMills,3,168,"1,629","1,834",
+Seminole,Seminole,5,"2,150","6,011","8,337",
+Sequoyah,Sequoyah,2,"3,035","12,113","15,386",
+Stephens,Stephens,4,"3,154","15,560","19,057",
+Texas,Texas,3,894,"4,505","5,521",
+Tillman,Tillman,4,597,"2,076","2,708",
+Tulsa,Tulsa,1,"108,996","150,574","266,678",
+Wagoner,Wagoner,1,"8,464","26,165","35,338",
+Washington,Washington,1,"5,790","17,076","23,501",
+Washita,Washita,3,598,"4,086","4,777",
+Woods,Woods,3,591,"2,993","3,678",
+Woodward,Woodward,3,"1,005","6,611","7,785",
+,,,,,,
+,Split Counties,,,,,
+Canadian (pt.),Canadian,3,"14,482","36,482","52,357","1,393"
+Canadian (pt.),Canadian,4,"2,260","7,068","9,583",255
+Creek (pt.),Creek,1,552,"2,600","3,202",50
+Creek (pt.),Creek,3,"6,025","20,694","27,303",584
+Oklahoma (pt.),Oklahoma,4,"10,778","14,653","26,175",744
+Oklahoma (pt.),Oklahoma,5,"130,946","130,397","268,565","7,222"
+Rogers (pt.),Rogers,1,"2,103","6,464","8,776",209
+Rogers (pt.),Rogers,2,"7,486","27,567","35,777",724
+,,,,,,
+,Split E/A/P Votes,,,,,
+Canadian (pt.),Canadian,3,0,0,0,0
+Canadian (pt.),Canadian,4,0,0,0,0
+Creek (pt.),Creek,1,0,0,0,0
+Creek (pt.),Creek,3,0,0,0,0
+Oklahoma (pt.),Oklahoma,4,0,0,0,0
+Oklahoma (pt.),Oklahoma,5,0,0,0,0
+Rogers (pt.),Rogers,1,0,0,0,0
+Rogers (pt.),Rogers,2,0,0,0,0
+,,,,,,
+Total E/A/P Votes,,,,,,
+Canadian (pt.),Canadian,EV,0,0,0,0
+Creek (pt.),Creek,EV,0,0,0,0
+Oklahoma (pt.),Oklahoma,EV,0,0,0,0
+Rogers (pt.),Rogers,EV,0,0,0,0

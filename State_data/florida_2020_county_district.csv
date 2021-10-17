@@ -1,0 +1,173 @@
+County,ShortName,CD,Biden,Trump,Total,
+Alachua,Alachua,3,89704,50972,142584,
+Baker,Baker,5,2037,11911,14059,
+Bay,Bay,2,25614,66097,93008,
+Bradford,Bradford,3,3160,10334,13631,
+Brevard,Brevard,8,148549,207883,360720,
+Calhoun,Calhoun,2,1209,5274,6526,
+Charlotte,Charlotte,17,42273,73243,116336,
+Citrus,Citrus,11,27092,65352,93199,
+Clay,Clay,3,38317,84480,124393,
+DeSoto,DeSoto,17,4259,8313,12659,
+Dixie,Dixie,2,1365,6759,8167,
+Escambia,Escambia,1,70929,96674,170339,
+Flagler,Flagler,6,28161,43043,71711,
+Franklin,Franklin,2,2120,4675,6849,
+Gadsden,Gadsden,5,16153,7465,23762,
+Gilchrist,Gilchrist,2,1700,7895,9682,
+Glades,Glades,17,1385,3782,5193,
+Gulf,Gulf,2,1985,6113,8163,
+Hamilton,Hamilton,5,1963,3815,5829,
+Hardee,Hardee,17,2298,6122,8485,
+Hendry,Hendry,25,4929,7906,12939,
+Hernando,Hernando,11,37519,70412,108914,
+Highlands,Highlands,17,16938,34873,52167,
+Indian River,IndianRiver,8,37844,58872,97481,
+Jackson,Jackson,2,6766,15488,22414,
+Lafayette,Lafayette,2,510,3128,3658,
+Levy,Levy,2,6205,16749,23144,
+Liberty,Liberty,2,694,2846,3561,
+Madison,Madison,5,3747,5576,9380,
+Manatee,Manatee,16,90166,124987,216941,
+Martin,Martin,18,36893,61168,98724,
+Monroe,Monroe,26,21881,25693,48025,
+Nassau,Nassau,4,15564,42566,58806,
+Okaloosa,Okaloosa,1,34248,79798,116338,
+Okeechobee,Okeechobee,17,4390,11470,15953,
+Osceola,Osceola,9,97297,73480,172407,
+Pasco,Pasco,12,119073,179621,301937,
+Putnam,Putnam,3,10527,25514,36372,
+Santa Rosa,SantaRosa,1,27612,77385,106925,
+Seminole,Seminole,7,132528,125241,260765,
+St. Lucie,St.Lucie,18,84137,86831,172159,
+Sumter,Sumter,11,29341,62761,92484,
+Suwannee,Suwannee,2,4485,16410,21057,
+Taylor,Taylor,2,2299,7751,10125,
+Union,Union,3,1053,5133,6245,
+Volusia,Volusia,6,130575,173821,307416,
+Wakulla,Wakulla,2,5351,12874,18404,
+Walton,Walton,1,10338,32947,43708,
+Washington,Washington,2,2347,9876,12327,
+,,,,,,
+,Split Counties,,,,,
+Broward (pt.),Broward,20,187688,44474,233319,1156
+Broward (pt.),Broward,22,194457,134780,331168,1931
+Broward (pt.),Broward,23,210540,142753,355379,2086
+Broward (pt.),Broward,24,26067,11401,37744,275
+Collier (pt.),Collier,19,39239,67768,107604,597
+Collier (pt.),Collier,25,38382,61182,100195,631
+Columbia (pt.),Columbia,2,7032,21903,29184,249
+Columbia (pt.),Columbia,5,1882,1933,3858,43
+Duval (pt.),Duval,4,127298,167192,298558,4068
+Duval (pt.),Duval,5,125258,66570,194185,2357
+Hillsborough (pt.),Hillsborough,12,3638,5182,8886,66
+Hillsborough (pt.),Hillsborough,14,217176,158027,379538,4335
+Hillsborough (pt.),Hillsborough,15,92682,98309,193389,2398
+Hillsborough (pt.),Hillsborough,16,62871,65880,130177,1426
+Holmes (pt.),Holmes,1,527,5215,5787,44
+Holmes (pt.),Holmes,2,397,2865,3281,20
+Jefferson (pt.),Jefferson,2,295,462,766,9
+Jefferson (pt.),Jefferson,5,3602,4017,7682,63
+Lake (pt.),Lake,6,17572,32012,50074,490
+Lake (pt.),Lake,11,35251,59928,95975,796
+Lake (pt.),Lake,15,30682,33919,65249,648
+Lee (pt.),Lee,17,16211,28251,44827,365
+Lee (pt.),Lee,19,141484,204996,349055,2575
+Leon (pt.),Leon,2,43268,34762,78885,855
+Leon (pt.),Leon,5,60249,22691,83991,1051
+Marion (pt.),Marion,2,12104,21571,33887,212
+Marion (pt.),Marion,3,27672,46654,75057,731
+Marion (pt.),Marion,11,35082,59601,95417,734
+Miami-Dade (pt.),MiamiDade,23,17401,18277,35826,148
+Miami-Dade (pt.),MiamiDade,24,199221,60220,260884,1443
+Miami-Dade (pt.),MiamiDade,25,80123,128590,209708,995
+Miami-Dade (pt.),MiamiDade,26,142475,158326,302398,1597
+Miami-Dade (pt.),MiamiDade,27,178642,167420,347971,1909
+Orange (pt.),Orange,7,93977,58173,154155,2005
+Orange (pt.),Orange,8,3415,5354,8854,85
+Orange (pt.),Orange,9,60754,40494,102357,1109
+Orange (pt.),Orange,10,236868,141377,381930,3685
+Palm Beach (pt.),PalmBeach,18,85358,96706,183214,1150
+Palm Beach (pt.),PalmBeach,20,66956,28340,95994,698
+Palm Beach (pt.),PalmBeach,21,239322,169556,411406,2528
+Palm Beach (pt.),PalmBeach,22,41936,40109,82479,434
+Pinellas (pt.),Pinellas,12,65920,81488,148874,1466
+Pinellas (pt.),Pinellas,13,211530,194721,410780,4529
+Polk (pt.),Polk,9,74267,87950,163676,1459
+Polk (pt.),Polk,15,56429,81508,139562,1625
+Polk (pt.),Polk,17,14353,25128,39978,497
+Sarasota (pt.),Sarasota,16,70329,71973,143471,1169
+Sarasota (pt.),Sarasota,17,49781,76397,127077,899
+St. Johns (pt.),St.Johns,4,55551,96178,153351,1622
+St. Johns (pt.),St.Johns,6,8299,14768,23267,200
+,,,,,,
+,Split E/A/P Votes,,,,,
+Broward (pt.),Broward,20,0,0,0,0
+Broward (pt.),Broward,22,0,0,0,0
+Broward (pt.),Broward,23,0,0,0,0
+Broward (pt.),Broward,24,0,0,0,0
+Collier (pt.),Collier,19,0,0,0,0
+Collier (pt.),Collier,25,0,0,0,0
+Columbia (pt.),Columbia,2,0,0,0,0
+Columbia (pt.),Columbia,5,0,0,0,0
+Duval (pt.),Duval,4,0,0,0,0
+Duval (pt.),Duval,5,0,0,0,0
+Hillsborough (pt.),Hillsborough,12,0,0,0,0
+Hillsborough (pt.),Hillsborough,14,0,0,0,0
+Hillsborough (pt.),Hillsborough,15,0,0,0,0
+Hillsborough (pt.),Hillsborough,16,0,0,0,0
+Holmes (pt.),Holmes,1,0,0,0,0
+Holmes (pt.),Holmes,2,0,0,0,0
+Jefferson (pt.),Jefferson,2,0,0,0,0
+Jefferson (pt.),Jefferson,5,0,0,0,0
+Lake (pt.),Lake,6,0,0,0,0
+Lake (pt.),Lake,11,0,0,0,0
+Lake (pt.),Lake,15,0,0,0,0
+Lee (pt.),Lee,17,0,0,0,0
+Lee (pt.),Lee,19,0,0,0,0
+Leon (pt.),Leon,2,0,0,0,0
+Leon (pt.),Leon,5,0,0,0,0
+Marion (pt.),Marion,2,0,0,0,0
+Marion (pt.),Marion,3,0,0,0,0
+Marion (pt.),Marion,11,0,0,0,0
+Miami-Dade (pt.),MiamiDade,23,0,0,0,0
+Miami-Dade (pt.),MiamiDade,24,1,0,1,0
+Miami-Dade (pt.),MiamiDade,25,0,0,0,0
+Miami-Dade (pt.),MiamiDade,26,0,0,0,0
+Miami-Dade (pt.),MiamiDade,27,1,0,1,0
+Orange (pt.),Orange,7,0,0,0,0
+Orange (pt.),Orange,8,0,0,0,0
+Orange (pt.),Orange,9,0,0,0,0
+Orange (pt.),Orange,10,0,0,0,0
+Palm Beach (pt.),PalmBeach,18,0,0,0,0
+Palm Beach (pt.),PalmBeach,20,0,0,0,0
+Palm Beach (pt.),PalmBeach,21,0,0,0,0
+Palm Beach (pt.),PalmBeach,22,0,0,0,0
+Pinellas (pt.),Pinellas,12,0,0,0,0
+Pinellas (pt.),Pinellas,13,0,0,0,0
+Polk (pt.),Polk,9,0,0,0,0
+Polk (pt.),Polk,15,0,0,0,0
+Polk (pt.),Polk,17,0,0,0,0
+Sarasota (pt.),Sarasota,16,0,0,0,0
+Sarasota (pt.),Sarasota,17,0,0,0,0
+St. Johns (pt.),St.Johns,4,0,0,0,0
+St. Johns (pt.),St.Johns,6,0,0,0,0
+,,,,,,
+Broward (pt.),Broward,EV,0,0,0,0
+Collier (pt.),Collier,EV,0,0,0,0
+Columbia (pt.),Columbia,EV,0,0,0,0
+Duval (pt.),Duval,EV,0,0,0,0
+Hillsborough (pt.),Hillsborough,EV,0,0,0,0
+Holmes (pt.),Holmes,EV,0,0,0,0
+Jefferson (pt.),Jefferson,EV,0,0,0,0
+Lake (pt.),Lake,EV,0,0,0,0
+Lee (pt.),Lee,EV,0,0,0,0
+Leon (pt.),Leon,EV,0,0,0,0
+Marion (pt.),Marion,EV,0,0,0,0
+Miami-Dade (pt.),MiamiDade,EV,2,0,2,0
+Orange (pt.),Orange,EV,0,0,0,0
+Palm Beach (pt.),PalmBeach,EV,0,0,0,0
+Pinellas (pt.),Pinellas,EV,0,0,0,0
+Polk (pt.),Polk,EV,0,0,0,0
+Sarasota (pt.),Sarasota,EV,0,0,0,0
+St. Johns (pt.),St.Johns,EV,0,0,0,0
