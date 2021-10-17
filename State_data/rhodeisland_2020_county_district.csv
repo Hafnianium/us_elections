@@ -1,0 +1,550 @@
+Town,Precinct,CD,Biden,Trump,Total,Other
+Barrington,Barrington 0101,1,1247,551,1820,22
+Barrington,Barrington 0102,1,1714,623,2367,30
+Barrington,Barrington 0103,1,1379,452,1862,31
+Barrington,Barrington 0104,1,1624,646,2302,32
+Barrington,Barrington 0105,1,1685,587,2309,37
+Barrington,Barrington Limited,1,1,0,1,0
+Barrington,Barrington Presidential,1,63,30,93,0
+Bristol,Bristol 0201,1,626,556,1195,13
+Bristol,Bristol 0202,1,484,218,720,18
+Bristol,Bristol 0203,1,1441,844,2317,32
+Bristol,Bristol 0204,1,921,592,1537,24
+Bristol,Bristol 0205,1,960,864,1847,23
+Bristol,Bristol 0206,1,823,627,1472,22
+Bristol,Bristol 0207,1,623,286,921,12
+Bristol,Bristol 0208,1,719,476,1229,34
+Bristol,Bristol 0209,1,168,94,272,10
+Bristol,Bristol Limited,1,1,0,1,0
+Bristol,Bristol Presidential,1,47,38,86,1
+Burrillville,Burrillville 0301,2,567,853,1449,29
+Burrillville,Burrillville 0302,2,517,820,1359,22
+Burrillville,Burrillville 0303,2,798,1080,1911,33
+Burrillville,Burrillville 0304,2,460,572,1055,23
+Burrillville,Burrillville 0305,2,518,717,1268,33
+Burrillville,Burrillville 0306,2,546,779,1344,19
+Burrillville,Burrillville Limited,2,0,0,0,0
+Burrillville,Burrillville Presidential,2,28,85,115,2
+Central Falls,Central Falls 0401,1,575,165,758,18
+Central Falls,Central Falls 0402,1,225,107,334,2
+Central Falls,Central Falls 0403,1,539,206,762,17
+Central Falls,Central Falls 0404,1,496,139,649,14
+Central Falls,Central Falls 0405,1,198,74,273,1
+Central Falls,Central Falls 0406,1,312,163,481,6
+Central Falls,Central Falls 0407,1,131,53,184,0
+Central Falls,Central Falls 0408,1,452,139,602,11
+Central Falls,Central Falls Limited,1,0,0,0,0
+Central Falls,Central Falls Presidential,1,145,67,213,1
+Charlestown,Charlestown 0501,2,789,578,1397,30
+Charlestown,Charlestown 0502,2,761,602,1386,23
+Charlestown,Charlestown 0503,2,715,538,1271,18
+Charlestown,Charlestown 0504,2,614,438,1066,14
+Charlestown,Charlestown Limited,2,0,0,0,0
+Charlestown,Charlestown Presidential,2,30,42,73,1
+Coventry,Coventry 0601,2,509,604,1137,24
+Coventry,Coventry 0602,2,152,171,331,8
+Coventry,Coventry 0603,2,847,919,1797,31
+Coventry,Coventry 0604,2,540,585,1141,16
+Coventry,Coventry 0605,2,493,654,1177,30
+Coventry,Coventry 0606,2,258,425,697,14
+Coventry,Coventry 0607,2,827,842,1695,26
+Coventry,Coventry 0608,2,748,793,1571,30
+Coventry,Coventry 0609,2,543,653,1214,18
+Coventry,Coventry 0610,2,351,362,723,10
+Coventry,Coventry 0611,2,540,568,1116,8
+Coventry,Coventry 0612,2,573,585,1179,21
+Coventry,Coventry 0613,2,477,507,1001,17
+Coventry,Coventry 0614,2,276,245,526,5
+Coventry,Coventry 0615,2,592,691,1299,16
+Coventry,Coventry 0616,2,627,784,1437,26
+Coventry,Coventry 0617,2,446,606,1070,18
+Coventry,Coventry 0618,2,251,307,566,8
+Coventry,Coventry Limited,2,0,0,0,0
+Coventry,Coventry Presidential,2,73,160,238,5
+Cranston,Cranston 0701,2,964,547,1530,19
+Cranston,Cranston 0702,2,813,458,1288,17
+Cranston,Cranston 0703,2,535,520,1072,17
+Cranston,Cranston 0704,2,213,119,336,4
+Cranston,Cranston 0705,2,235,145,382,2
+Cranston,Cranston 0706,2,811,1131,1965,23
+Cranston,Cranston 0707,2,827,1012,1861,22
+Cranston,Cranston 0708,2,1028,965,2009,16
+Cranston,Cranston 0709,2,1186,1189,2410,35
+Cranston,Cranston 0710,2,981,533,1537,23
+Cranston,Cranston 0711,2,814,786,1620,20
+Cranston,Cranston 0712,2,914,890,1822,18
+Cranston,Cranston 0713,2,872,764,1653,17
+Cranston,Cranston 0714,2,205,157,364,2
+Cranston,Cranston 0715,2,641,430,1085,14
+Cranston,Cranston 0716,2,748,729,1490,13
+Cranston,Cranston 0717,2,439,181,627,7
+Cranston,Cranston 0718,2,429,366,796,1
+Cranston,Cranston 0719,2,678,691,1385,16
+Cranston,Cranston 0720,2,263,225,491,3
+Cranston,Cranston 0721,2,987,551,1576,38
+Cranston,Cranston 0722,2,516,361,897,20
+Cranston,Cranston 0723,2,1496,410,1935,29
+Cranston,Cranston 0724,2,1303,287,1606,16
+Cranston,Cranston 0725,2,1480,617,2127,30
+Cranston,Cranston 0726,2,813,406,1235,16
+Cranston,Cranston 0727,2,622,224,853,7
+Cranston,Cranston 0728,2,7,11,19,1
+Cranston,Cranston 0730,2,1068,1512,2609,29
+Cranston,Cranston 0731,2,921,937,1880,22
+Cranston,Cranston Limited,2,5,1,6,0
+Cranston,Cranston Presidential,2,225,158,385,2
+Cumberland,Cumberland 0801,1,686,511,1218,21
+Cumberland,Cumberland 0802,1,912,632,1556,12
+Cumberland,Cumberland 0803,1,991,818,1832,23
+Cumberland,Cumberland 0804,1,288,259,553,6
+Cumberland,Cumberland 0805,1,1034,855,1927,38
+Cumberland,Cumberland 0806,1,997,685,1709,27
+Cumberland,Cumberland 0807,1,1323,1050,2422,49
+Cumberland,Cumberland 0808,1,1274,982,2294,38
+Cumberland,Cumberland 0809,1,389,356,755,10
+Cumberland,Cumberland 0810,1,811,504,1327,12
+Cumberland,Cumberland 0811,1,897,719,1639,23
+Cumberland,Cumberland 0812,1,853,595,1464,16
+Cumberland,Cumberland 0813,1,335,363,707,9
+Cumberland,Cumberland Limited,1,6,5,11,0
+Cumberland,Cumberland Presidential,1,73,84,162,5
+East Greenwich,East Greenwich 0901,2,289,179,475,7
+East Greenwich,East Greenwich 0902,2,1268,806,2098,24
+East Greenwich,East Greenwich 0903,2,1140,606,1773,27
+East Greenwich,East Greenwich 0904,2,1246,797,2079,36
+East Greenwich,East Greenwich 0905,2,1237,810,2078,31
+East Greenwich,East Greenwich Limited,2,0,3,3,0
+East Greenwich,East Greenwich Presidential,2,38,26,68,4
+East Providence,East Providence 1001,1,1175,636,1841,30
+East Providence,East Providence 1002,1,870,423,1307,14
+East Providence,East Providence 1003,1,545,261,817,11
+East Providence,East Providence 1004,1,1038,547,1604,19
+East Providence,East Providence 1005,1,980,374,1381,27
+East Providence,East Providence 1006,1,67,53,120,0
+East Providence,East Providence 1007,1,106,68,176,2
+East Providence,East Providence 1008,1,1187,547,1759,25
+East Providence,East Providence 1009,1,1172,651,1853,30
+East Providence,East Providence 1010,1,1316,624,1956,16
+East Providence,East Providence 1011,1,1145,628,1798,25
+East Providence,East Providence 1012,1,582,311,920,27
+East Providence,East Providence 1013,1,940,514,1487,33
+East Providence,East Providence 1014,1,1036,614,1678,28
+East Providence,East Providence 1015,1,472,208,687,7
+East Providence,East Providence 1016,1,565,413,993,15
+East Providence,East Providence 1017,1,1002,685,1719,32
+East Providence,East Providence 1018,1,386,241,640,13
+East Providence,East Providence Limited,1,0,0,0,0
+East Providence,East Providence Presidential,1,151,132,285,2
+Exeter,Exeter 1101,2,616,539,1179,24
+Exeter,Exeter 1102,2,551,626,1205,28
+Exeter,Exeter 1103,2,792,823,1639,24
+Exeter,Exeter Limited,2,0,0,0,0
+Exeter,Exeter Presidential,2,15,21,36,0
+Foster,Foster 1201,2,648,837,1515,30
+Foster,Foster 1202,2,570,715,1305,20
+Foster,Foster Limited,2,0,2,2,0
+Foster,Foster Presidential,2,6,28,34,0
+Glocester,Glocester 1301,2,883,1149,2063,31
+Glocester,Glocester 1302,2,914,1170,2116,32
+Glocester,Glocester 1303,2,191,265,462,6
+Glocester,Glocester 1304,2,634,723,1371,14
+Glocester,Glocester Limited,2,0,1,1,0
+Glocester,Glocester Presidential,2,16,43,62,3
+Hopkinton,Hopkinton 1401,2,978,1079,2102,45
+Hopkinton,Hopkinton 1402,2,934,954,1930,42
+Hopkinton,Hopkinton 1403,2,359,355,728,14
+Hopkinton,Hopkinton Limited,2,0,0,0,0
+Hopkinton,Hopkinton Presidential,2,27,35,62,0
+Jamestown,Jamestown 1501,1,1525,640,2193,28
+Jamestown,Jamestown 1502,1,1243,553,1826,30
+Jamestown,Jamestown Limited,1,0,0,0,0
+Jamestown,Jamestown Presidential,1,27,19,46,0
+Johnston,Johnston 1601,2,522,603,1135,10
+Johnston,Johnston 1602,2,556,690,1257,11
+Johnston,Johnston 1603,2,679,650,1343,14
+Johnston,Johnston 1604,2,633,836,1480,11
+Johnston,Johnston 1605,2,554,750,1319,15
+Johnston,Johnston 1606,2,147,153,303,3
+Johnston,Johnston 1607,2,185,231,423,7
+Johnston,Johnston 1608,2,738,752,1508,18
+Johnston,Johnston 1609,2,495,657,1160,8
+Johnston,Johnston 1610,2,843,961,1820,16
+Johnston,Johnston 1611,2,444,452,906,10
+Johnston,Johnston 1612,2,433,648,1090,9
+Johnston,Johnston 1613,2,502,711,1224,11
+Johnston,Johnston Limited,2,0,0,0,0
+Johnston,Johnston Presidential,2,107,128,237,2
+Lincoln,Lincoln 1701,1,1030,1214,2272,28
+Lincoln,Lincoln 1702,1,577,412,1009,20
+Lincoln,Lincoln 1703,1,699,632,1359,28
+Lincoln,Lincoln 1704,1,1035,837,1907,35
+Lincoln,Lincoln 1705,1,761,604,1388,23
+Lincoln,Lincoln 1706,1,212,189,408,7
+Lincoln,Lincoln 1707,1,226,204,433,3
+Lincoln,Lincoln 1708,1,928,781,1727,18
+Lincoln,Lincoln 1709,1,353,314,681,14
+Lincoln,Lincoln 1710,1,382,254,645,9
+Lincoln,Lincoln 1711,1,380,285,667,2
+Lincoln,Lincoln Limited,1,1,0,1,0
+Lincoln,Lincoln Presidential,1,49,53,103,1
+Little Compton,Little Compton 1801,1,1515,935,2492,42
+Little Compton,Little Compton Limited,1,0,0,0,0
+Little Compton,Little Compton Presidential,1,9,16,25,0
+Middletown,Middletown 1901,1,952,488,1460,20
+Middletown,Middletown 1902,1,1056,553,1633,24
+Middletown,Middletown 1903,1,1012,473,1515,30
+Middletown,Middletown 1904,1,1415,717,2177,45
+Middletown,Middletown 1905,1,1010,588,1626,28
+Middletown,Middletown Limited,1,0,0,0,0
+Middletown,Middletown Presidential,1,84,66,153,3
+Narragansett,Narragansett 2001,2,138,95,234,1
+Narragansett,Narragansett 2002,2,1312,814,2152,26
+Narragansett,Narragansett 2003,2,1335,840,2194,19
+Narragansett,Narragansett 2004,2,1325,884,2234,25
+Narragansett,Narragansett 2005,2,1190,883,2086,13
+Narragansett,Narragansett Limited,2,0,0,0,0
+Narragansett,Narragansett Presidential,2,33,35,68,0
+New Shoreham,New Shoreham 2201,2,729,190,923,4
+New Shoreham,New Shoreham Limited,2,0,0,0,0
+New Shoreham,New Shoreham Presidential,2,19,5,25,1
+Newport,Newport 2101,1,867,294,1172,11
+Newport,Newport 2102,1,1429,451,1905,25
+Newport,Newport 2103,1,537,156,704,11
+Newport,Newport 2104,1,439,105,546,2
+Newport,Newport 2105,1,1106,368,1497,23
+Newport,Newport 2106,1,1277,476,1765,12
+Newport,Newport 2107,1,1170,528,1720,22
+Newport,Newport 2108,1,645,173,826,8
+Newport,Newport 2109,1,300,60,364,4
+Newport,Newport Limited,1,1,0,1,0
+Newport,Newport Presidential,1,95,51,151,5
+North Kingstown,North Kingstown 2301,2,882,663,1569,24
+North Kingstown,North Kingstown 2302,2,1402,851,2282,29
+North Kingstown,North Kingstown 2303,2,1175,839,2047,33
+North Kingstown,North Kingstown 2304,2,1124,884,2042,34
+North Kingstown,North Kingstown 2305,2,742,500,1267,25
+North Kingstown,North Kingstown 2306,2,733,464,1220,23
+North Kingstown,North Kingstown 2307,2,1484,742,2262,36
+North Kingstown,North Kingstown 2308,2,1446,811,2299,42
+North Kingstown,North Kingstown 2309,2,1481,812,2330,37
+North Kingstown,North Kingstown Limited,2,0,3,3,0
+North Kingstown,North Kingstown Presidential,2,65,64,132,3
+North Providence,North Providence 2401,1,486,339,842,17
+North Providence,North Providence 2402,1,704,452,1175,19
+North Providence,North Providence 2403,1,652,505,1172,15
+North Providence,North Providence 2404,1,402,284,697,11
+North Providence,North Providence 2405,1,525,362,900,13
+North Providence,North Providence 2406,1,737,525,1273,11
+North Providence,North Providence 2407,1,672,627,1309,10
+North Providence,North Providence 2408,1,659,433,1104,12
+North Providence,North Providence 2409,1,369,229,601,3
+North Providence,North Providence 2410,1,528,418,951,5
+North Providence,North Providence 2411,1,637,636,1285,12
+North Providence,North Providence 2412,1,697,550,1273,26
+North Providence,North Providence 2413,1,379,318,712,15
+North Providence,North Providence 2414,1,384,295,689,10
+North Providence,North Providence 2415,1,475,299,790,16
+North Providence,North Providence 2416,1,990,775,1786,21
+North Providence,North Providence Limited,1,0,0,0,0
+North Providence,North Providence Presidential,1,142,82,226,2
+North Smithfield,North Smithfield 2501,1,755,869,1658,34
+North Smithfield,North Smithfield 2502,1,874,882,1776,20
+North Smithfield,North Smithfield 2503,1,730,734,1491,27
+North Smithfield,North Smithfield 2504,1,739,656,1415,20
+North Smithfield,North Smithfield 2505,1,391,375,780,14
+North Smithfield,North Smithfield Limited,1,0,2,2,0
+North Smithfield,North Smithfield Presidential,1,18,32,50,0
+Pawtucket,Pawtucket 2601,1,270,86,366,10
+Pawtucket,Pawtucket 2602,1,581,139,722,2
+Pawtucket,Pawtucket 2603,1,1141,459,1620,20
+Pawtucket,Pawtucket 2604,1,579,264,849,6
+Pawtucket,Pawtucket 2605,1,398,107,510,5
+Pawtucket,Pawtucket 2606,1,489,122,615,4
+Pawtucket,Pawtucket 2607,1,1461,273,1761,27
+Pawtucket,Pawtucket 2608,1,1195,256,1473,22
+Pawtucket,Pawtucket 2609,1,158,51,213,4
+Pawtucket,Pawtucket 2610,1,110,21,133,2
+Pawtucket,Pawtucket 2611,1,515,127,652,10
+Pawtucket,Pawtucket 2612,1,681,338,1036,17
+Pawtucket,Pawtucket 2613,1,887,315,1224,22
+Pawtucket,Pawtucket 2614,1,825,268,1100,7
+Pawtucket,Pawtucket 2615,1,350,80,434,4
+Pawtucket,Pawtucket 2616,1,166,71,239,2
+Pawtucket,Pawtucket 2617,1,215,71,288,2
+Pawtucket,Pawtucket 2618,1,1092,655,1773,26
+Pawtucket,Pawtucket 2619,1,599,337,946,10
+Pawtucket,Pawtucket 2620,1,1146,597,1773,30
+Pawtucket,Pawtucket 2621,1,305,202,514,7
+Pawtucket,Pawtucket 2622,1,172,124,300,4
+Pawtucket,Pawtucket 2623,1,288,146,444,10
+Pawtucket,Pawtucket 2624,1,304,179,490,7
+Pawtucket,Pawtucket 2625,1,309,107,421,5
+Pawtucket,Pawtucket 2626,1,111,36,148,1
+Pawtucket,Pawtucket 2627,1,661,270,946,15
+Pawtucket,Pawtucket 2628,1,875,590,1492,27
+Pawtucket,Pawtucket 2629,1,1200,671,1898,27
+Pawtucket,Pawtucket 2630,1,94,42,138,2
+Pawtucket,Pawtucket 2631,1,499,120,627,8
+Pawtucket,Pawtucket Limited,1,5,3,8,0
+Pawtucket,Pawtucket Presidential,1,372,130,514,12
+Portsmouth,Portsmouth 2701,1,72,43,119,4
+Portsmouth,Portsmouth 2702,1,200,117,323,6
+Portsmouth,Portsmouth 2703,1,1070,562,1666,34
+Portsmouth,Portsmouth 2704,1,1433,861,2336,42
+Portsmouth,Portsmouth 2705,1,450,316,780,14
+Portsmouth,Portsmouth 2706,1,454,309,775,12
+Portsmouth,Portsmouth 2707,1,1374,885,2306,47
+Portsmouth,Portsmouth 2708,1,1532,852,2424,40
+Portsmouth,Portsmouth Limited,1,3,1,4,0
+Portsmouth,Portsmouth Presidential,1,61,49,111,1
+Providence (pt.),Providence 2801,1,96,37,134,1
+Providence (pt.),Providence 2802,1,200,27,232,5
+Providence (pt.),Providence 2803,1,1343,138,1498,17
+Providence (pt.),Providence 2804,1,232,17,256,7
+Providence (pt.),Providence 2805,1,1738,177,1938,23
+Providence (pt.),Providence 2806,1,126,12,139,1
+Providence (pt.),Providence 2807,1,4,0,4,0
+Providence (pt.),Providence 2808,1,1140,135,1293,18
+Providence (pt.),Providence 2809,1,1399,138,1553,16
+Providence (pt.),Providence 2810,1,98,12,110,0
+Providence (pt.),Providence 2811,1,833,165,1012,14
+Providence (pt.),Providence 2812,1,849,228,1094,17
+Providence (pt.),Providence 2813,1,598,116,723,9
+Providence (pt.),Providence 2814,1,429,96,533,8
+Providence (pt.),Providence 2815,1,957,195,1168,16
+Providence (pt.),Providence 2816,1,1902,239,2164,23
+Providence (pt.),Providence 2817,1,1970,213,2212,29
+Providence (pt.),Providence 2818,1,1174,146,1343,23
+Providence (pt.),Providence 2819,1,1104,406,1529,19
+Providence (pt.),Providence 2820,1,134,67,203,2
+Providence (pt.),Providence 2821,1,784,183,980,13
+Providence (pt.),Providence 2822,1,248,36,286,2
+Providence (pt.),Providence 2823,1,915,247,1172,10
+Providence (pt.),Providence 2824,1,1151,334,1501,16
+Providence (pt.),Providence 2825,1,154,42,200,4
+Providence (pt.),Providence 2826,1,917,173,1104,14
+Providence (pt.),Providence 2827,1,925,197,1127,5
+Providence (pt.),Providence 2828,1,702,152,866,12
+Providence (pt.),Providence 2829,1,769,174,956,13
+Providence (pt.),Providence 2830,1,58,10,70,2
+Providence (pt.),Providence 2831,1,690,134,833,9
+Providence (pt.),Providence 2832,1,924,231,1166,11
+Providence (pt.),Providence 2833,1,451,90,545,4
+Providence (pt.),Providence 2834,1,210,48,264,6
+Providence (pt.),Providence 2835,2,260,48,309,1
+Providence (pt.),Providence 2836,2,11,1,12,0
+Providence (pt.),Providence 2837,2,488,87,589,14
+Providence (pt.),Providence 2838,2,277,59,340,4
+Providence (pt.),Providence 2839,2,465,84,558,9
+Providence (pt.),Providence 2840,2,270,50,321,1
+Providence (pt.),Providence 2841,2,314,51,370,5
+Providence (pt.),Providence 2842,2,155,31,188,2
+Providence (pt.),Providence 2843,2,234,64,314,16
+Providence (pt.),Providence 2844,2,707,256,987,24
+Providence (pt.),Providence 2845,2,438,179,625,8
+Providence (pt.),Providence 2846,2,553,205,766,8
+Providence (pt.),Providence 2847,2,276,104,383,3
+Providence (pt.),Providence 2848,2,106,39,145,0
+Providence (pt.),Providence 2849,2,797,309,1123,17
+Providence (pt.),Providence 2850,2,437,133,579,9
+Providence (pt.),Providence 2851,2,662,222,899,15
+Providence (pt.),Providence 2852,2,217,59,279,3
+Providence (pt.),Providence 2853,2,187,59,248,2
+Providence (pt.),Providence 2854,2,1463,430,1922,29
+Providence (pt.),Providence 2855,2,1118,363,1497,16
+Providence (pt.),Providence 2856,2,49,18,67,0
+Providence (pt.),Providence 2857,2,83,26,112,3
+Providence (pt.),Providence 2858,2,265,70,338,3
+Providence (pt.),Providence 2859,2,236,38,285,11
+Providence (pt.),Providence 2860,2,122,31,154,1
+Providence (pt.),Providence 2861,2,1084,206,1318,28
+Providence (pt.),Providence 2862,2,1127,177,1320,16
+Providence (pt.),Providence 2863,2,514,124,649,11
+Providence (pt.),Providence 2864,2,301,53,363,9
+Providence (pt.),Providence 2865,2,155,34,189,0
+Providence (pt.),Providence 2866,2,856,75,944,13
+Providence (pt.),Providence 2867,2,73,23,97,1
+Providence (pt.),Providence 2868,2,724,111,839,4
+Providence (pt.),Providence 2869,2,101,27,129,1
+Providence (pt.),Providence 2870,2,596,204,803,3
+Providence (pt.),Providence 2871,2,365,134,504,5
+Providence (pt.),Providence 2872,2,70,9,79,0
+Providence (pt.),Providence 2873,2,98,27,128,3
+Providence (pt.),Providence 2874,2,808,334,1153,11
+Providence (pt.),Providence 2875,2,818,318,1148,12
+Providence (pt.),Providence 2876,2,479,177,661,5
+Providence (pt.),Providence 2877,2,263,137,404,4
+Providence (pt.),Providence 2878,2,33,10,44,1
+Providence (pt.),Providence 2879,1,579,134,721,8
+Providence (pt.),Providence 2880,1,732,65,806,9
+Providence (pt.),Providence Limited 1,1,0,1,1,0
+Providence (pt.),Providence Limited 2,2,2,0,3,1
+Providence (pt.),Providence Presidential,EV,749,175,932,8
+Richmond,Richmond 2901,2,1248,1115,2409,46
+Richmond,Richmond 2902,2,1076,1184,2308,48
+Richmond,Richmond Limited,2,0,0,0,0
+Richmond,Richmond Presidential,2,22,44,70,4
+Scituate,Scituate 3001,2,875,1295,2203,33
+Scituate,Scituate 3002,2,925,1303,2260,32
+Scituate,Scituate 3003,2,915,1177,2129,37
+Scituate,Scituate Limited,2,0,0,0,0
+Scituate,Scituate Presidential,2,20,31,53,2
+Smithfield,Smithfield 3101,1,914,1058,2002,30
+Smithfield,Smithfield 3102,1,872,832,1734,30
+Smithfield,Smithfield 3103,1,904,890,1817,23
+Smithfield,Smithfield 3104,1,1033,1052,2107,22
+Smithfield,Smithfield 3105,1,945,943,1916,28
+Smithfield,Smithfield 3106,1,861,913,1802,28
+Smithfield,Smithfield Limited,1,0,0,0,0
+Smithfield,Smithfield Presidential,1,37,56,94,1
+South Kingstown,South Kingstown 3201,2,438,272,726,16
+South Kingstown,South Kingstown 3202,2,1177,525,1735,33
+South Kingstown,South Kingstown 3203,2,1224,569,1827,34
+South Kingstown,South Kingstown 3204,2,1269,390,1701,42
+South Kingstown,South Kingstown 3205,2,1475,478,1988,35
+South Kingstown,South Kingstown 3206,2,941,458,1431,32
+South Kingstown,South Kingstown 3207,2,1506,598,2150,46
+South Kingstown,South Kingstown 3208,2,1546,832,2417,39
+South Kingstown,South Kingstown 3209,2,612,349,974,13
+South Kingstown,South Kingstown 3210,2,996,497,1508,15
+South Kingstown,South Kingstown Limited,2,0,1,1,0
+South Kingstown,South Kingstown Presidential,2,70,34,109,5
+Tiverton,Tiverton 3301,1,1015,763,1796,18
+Tiverton,Tiverton 3302,1,954,788,1766,24
+Tiverton,Tiverton 3303,1,584,419,1014,11
+Tiverton,Tiverton 3304,1,737,540,1291,14
+Tiverton,Tiverton 3305,1,171,143,320,6
+Tiverton,Tiverton 3306,1,872,807,1705,26
+Tiverton,Tiverton 3307,1,747,505,1271,19
+Tiverton,Tiverton Limited,1,5,5,10,0
+Tiverton,Tiverton Presidential,1,38,47,87,2
+Warren,Warren 3401,1,951,526,1493,16
+Warren,Warren 3402,1,1087,885,2012,40
+Warren,Warren 3403,1,1452,811,2307,44
+Warren,Warren Limited,1,1,1,2,0
+Warren,Warren Presidential,1,33,38,74,3
+Warwick,Warwick 3501,2,1323,734,2092,35
+Warwick,Warwick 3502,2,1197,786,2019,36
+Warwick,Warwick 3503,2,610,431,1061,20
+Warwick,Warwick 3504,2,1095,454,1578,29
+Warwick,Warwick 3505,2,418,338,769,13
+Warwick,Warwick 3506,2,399,340,755,16
+Warwick,Warwick 3507,2,216,132,357,9
+Warwick,Warwick 3508,2,934,700,1669,35
+Warwick,Warwick 3509,2,215,163,381,3
+Warwick,Warwick 3510,2,645,494,1151,12
+Warwick,Warwick 3511,2,1052,754,1823,17
+Warwick,Warwick 3512,2,710,519,1246,17
+Warwick,Warwick 3513,2,914,734,1672,24
+Warwick,Warwick 3514,2,1225,955,2216,36
+Warwick,Warwick 3515,2,1149,952,2134,33
+Warwick,Warwick 3516,2,288,275,568,5
+Warwick,Warwick 3517,2,330,312,657,15
+Warwick,Warwick 3518,2,1099,1043,2179,37
+Warwick,Warwick 3519,2,1123,1001,2164,40
+Warwick,Warwick 3520,2,904,768,1699,27
+Warwick,Warwick 3521,2,801,694,1528,33
+Warwick,Warwick 3522,2,656,577,1256,23
+Warwick,Warwick 3523,2,1064,826,1922,32
+Warwick,Warwick 3524,2,632,562,1214,20
+Warwick,Warwick 3525,2,849,653,1536,34
+Warwick,Warwick 3526,2,344,228,579,7
+Warwick,Warwick 3527,2,816,581,1428,31
+Warwick,Warwick 3528,2,485,289,784,10
+Warwick,Warwick 3529,2,768,585,1369,16
+Warwick,Warwick 3530,2,1217,770,2010,23
+Warwick,Warwick 3531,2,1275,967,2270,28
+Warwick,Warwick 3532,2,491,359,863,13
+Warwick,Warwick 3533,2,429,389,833,15
+Warwick,Warwick Limited,2,1,0,1,0
+Warwick,Warwick Presidential,2,171,213,387,3
+West Greenwich,West Greenwich 3701,2,516,683,1219,20
+West Greenwich,West Greenwich 3702,2,471,508,992,13
+West Greenwich,West Greenwich 3703,2,301,500,807,6
+West Greenwich,West Greenwich 3704,2,392,514,919,13
+West Greenwich,West Greenwich Limited,2,1,2,3,0
+West Greenwich,West Greenwich Presidential,2,12,35,47,0
+West Warwick,West Warwick 3801,2,726,663,1406,17
+West Warwick,West Warwick 3802,2,494,392,900,14
+West Warwick,West Warwick 3803,2,289,281,578,8
+West Warwick,West Warwick 3804,2,1276,1126,2433,31
+West Warwick,West Warwick 3805,2,490,389,896,17
+West Warwick,West Warwick 3806,2,419,376,807,12
+West Warwick,West Warwick 3807,2,1100,974,2110,36
+West Warwick,West Warwick 3808,2,916,920,1859,23
+West Warwick,West Warwick 3809,2,829,684,1538,25
+West Warwick,West Warwick 3810,2,615,581,1212,16
+West Warwick,West Warwick Limited,2,0,0,0,0
+West Warwick,West Warwick Presidential,2,80,107,189,2
+Westerly,Westerly 3601,2,480,417,908,11
+Westerly,Westerly 3602,2,1239,880,2137,18
+Westerly,Westerly 3603,2,1260,772,2062,30
+Westerly,Westerly 3604,2,1174,855,2061,32
+Westerly,Westerly 3605,2,1189,952,2160,19
+Westerly,Westerly 3606,2,973,798,1810,39
+Westerly,Westerly 3607,2,779,737,1539,23
+Westerly,Westerly Limited,2,0,0,0,0
+Westerly,Westerly Presidential,2,59,52,113,2
+Woonsocket,Woonsocket 3901,1,158,89,256,9
+Woonsocket,Woonsocket 3902,1,402,285,695,8
+Woonsocket,Woonsocket 3903,1,305,206,524,13
+Woonsocket,Woonsocket 3904,1,717,466,1204,21
+Woonsocket,Woonsocket 3905,1,610,495,1123,18
+Woonsocket,Woonsocket 3906,1,583,474,1088,31
+Woonsocket,Woonsocket 3907,1,709,676,1413,28
+Woonsocket,Woonsocket 3908,1,621,722,1366,23
+Woonsocket,Woonsocket 3909,1,849,830,1699,20
+Woonsocket,Woonsocket 3910,1,828,837,1693,28
+Woonsocket,Woonsocket 3911,1,756,576,1348,16
+Woonsocket,Woonsocket 3912,1,626,473,1117,18
+Woonsocket,Woonsocket Limited,1,1,1,2,0
+Woonsocket,Woonsocket Presidential,1,124,135,263,4
+,,,,,,
+Providence (pt.),Providence Presidential,1,440,84,528,4
+Providence (pt.),Providence Presidential,2,309,91,404,4
+,,,,,,
+Barrington,Barrington,1,38,2,40,0
+Bristol,Bristol,1,34,3,37,0
+Burrillville,Burrillville,2,12,1,13,0
+Central Falls,Central Falls,1,15,1,16,0
+Charlestown,Charlestown,2,10,1,11,0
+Coventry,Coventry,2,31,3,34,0
+Cranston,Cranston,2,79,4,83,1
+Cumberland,Cumberland,1,53,6,60,0
+East Greenwich,East Greenwich,2,18,1,19,0
+East Providence,East Providence,1,72,5,78,1
+Exeter,Exeter,2,7,1,7,0
+Foster,Foster,2,4,0,5,0
+Glocester,Glocester,2,9,1,10,0
+Hopkinton,Hopkinton,2,8,1,9,0
+Jamestown,Jamestown,1,14,1,15,0
+Johnston,Johnston,2,23,2,26,0
+Lincoln,Lincoln,1,33,4,37,0
+Little Compton,Little Compton,1,7,1,8,0
+Middletown,Middletown,1,27,2,29,0
+Narragansett,Narragansett,2,18,1,19,0
+New Shoreham,New Shoreham,2,3,0,3,0
+Newport,Newport,1,39,2,41,0
+North Kingstown,North Kingstown,2,36,2,38,0
+North Providence,North Providence,1,46,5,52,0
+North Smithfield,North Smithfield,1,17,2,20,0
+Pawtucket,Pawtucket,1,89,5,94,1
+Portsmouth,Portsmouth,1,33,3,36,0
+Providence (pt.),Providence (pt.),1,133,3,137,1
+Providence (pt.),Providence (pt.),2,65,1,66,0
+Richmond,Richmond,2,8,1,9,0
+Scituate,Scituate,2,9,1,10,0
+Smithfield,Smithfield,1,27,4,31,0
+South Kingstown,South Kingstown,2,38,1,40,0
+Tiverton,Tiverton,1,25,3,28,0
+Warren,Warren,1,17,2,19,0
+Warwick,Warwick,2,88,5,94,1
+West Greenwich,West Greenwich,2,6,1,6,0
+West Warwick,West Warwick,2,25,2,27,0
+Westerly,Westerly,2,24,1,26,0
+Woonsocket,Woonsocket,1,36,4,40,0
+,,,,,,
+Federal Only,Federal Precinct #1,1,526,42,572,4
+Federal Only,Federal Precinct #1S,1,230,14,245,1
+Federal Only,Federal Precinct #2,2,474,26,505,5
+Federal Only,Federal Precinct #2S,2,46,3,49,0

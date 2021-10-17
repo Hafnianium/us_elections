@@ -1,0 +1,87 @@
+County,ShortName,CD,Biden,Trump,Total,
+Adams,Adams,13,18254,37567,56635,
+Armstrong,Armstrong,15,8457,27489,36370,
+Beaver,Beaver,17,38122,54759,94122,
+Bedford,Bedford,13,4367,23025,27574,
+Blair,Blair,13,17636,45306,63595,
+Bradford,Bradford,12,8046,21600,30159,
+Bucks,Bucks,1,204712,187367,396234,
+Cameron,Cameron,15,634,1771,2434,
+Carbon,Carbon,9,11212,21984,33629,
+Chester,Chester,6,182372,128565,314502,
+Clarion,Clarion,15,4678,14578,19493,
+Clearfield,Clearfield,15,9673,29203,39422,
+Clinton,Clinton,12,5502,11902,17625,
+Columbia,Columbia,9,10532,20098,31171,
+Crawford,Crawford,16,12924,28561,42006,
+Dauphin,Dauphin,10,78983,66408,147368,
+Delaware,Delaware,5,206709,118639,328329,
+Elk,Elk,15,4522,12140,16906,
+Erie,Erie,16,68286,66869,137083,
+Fayette,Fayette,14,20469,41251,62188,
+Forest,Forest,15,715,1864,2613,
+Franklin,Franklin,13,22422,57245,80783,
+Fulton,Fulton,13,1085,6824,7977,
+Greene,Greene,14,4911,12579,17669,
+Huntingdon,Huntingdon,13,5445,17061,22792,
+Indiana,Indiana,15,12634,28089,41198,
+Jefferson,Jefferson,15,4498,17928,22761,
+Juniata,Juniata,12,2253,9649,12043,
+Lackawanna,Lackawanna,8,61991,52334,115410,
+Lancaster,Lancaster,11,115847,160209,280239,
+Lawrence,Lawrence,16,15978,29597,46076,
+Lebanon,Lebanon,9,23932,46731,71652,
+Lehigh,Lehigh,7,98498,84418,185092,
+Lycoming,Lycoming,12,16971,41462,59254,
+McKean,McKean,15,5098,14083,19466,
+Mercer,Mercer,16,21067,36143,57954,
+Mifflin,Mifflin,12,4603,16670,21502,
+Montour,Montour,9,3771,5844,9771,
+Northampton,Northampton,7,85087,83854,170942,
+Perry,Perry,12,5950,18293,24652,
+Pike,Pike,8,13052,19241,32616,
+Potter,Potter,12,1726,7239,9064,
+Schuylkill,Schuylkill,9,20727,48871,70603,
+Snyder,Snyder,12,4910,13983,19140,
+Somerset,Somerset,13,8654,31466,40543,
+Sullivan,Sullivan,12,921,2619,3595,
+Susquehanna,Susquehanna,12,6236,15207,21752,
+Tioga,Tioga,12,4955,15742,21075,
+Union,Union,12,7475,12356,20115,
+Venango,Venango,15,7585,18569,26528,
+Warren,Warren,15,6066,14237,20650,
+Washington,Washington,14,45088,72080,118478,
+Wayne,Wayne,8,9191,18637,28089,
+Wyoming,Wyoming,12,4704,9936,14858,
+,,,,,,
+,Split Counties,,,,,
+Allegheny (pt.),Allegheny,17,177899,148080,330031,4051
+Allegheny (pt.),Allegheny,18,252860,134833,392002,4310
+Berks (pt.),Berks,4,3921,6863,10952,168
+Berks (pt.),Berks,6,49645,42035,93023,1344
+Berks (pt.),Berks,9,39550,61028,101991,1412
+Butler (pt.),Butler,15,5015,15701,20967,252
+Butler (pt.),Butler,16,27010,51861,79891,1020
+Butler (pt.),Butler,17,5483,6797,12447,166
+Cambria (pt.),Cambria,13,8979,13647,22903,277
+Cambria (pt.),Cambria,15,12751,34438,47671,482
+Centre (pt.),Centre,12,25518,15916,42031,597
+Centre (pt.),Centre,15,14537,20456,35462,469
+Cumberland (pt.),Cumberland,10,55380,61091,118310,1839
+Cumberland (pt.),Cumberland,13,6865,16121,23285,299
+Luzerne (pt.),Luzerne,8,56748,68528,126537,1261
+Luzerne (pt.),Luzerne,9,8125,18401,26784,258
+Monroe (pt.),Monroe,7,15698,12502,28572,372
+Monroe (pt.),Monroe,8,27631,25623,53912,658
+Montgomery (pt.),Montgomery,1,28734,20066,49332,532
+Montgomery (pt.),Montgomery,4,272570,161328,438407,4509
+Montgomery (pt.),Montgomery,5,18207,4066,22418,145
+Northumberland (pt.),Northumberland,9,4674,9157,14019,187
+Northumberland (pt.),Northumberland,12,8029,19818,28316,470
+Philadelphia (pt.),Philadelphia,2,207491,86128,295805,2186
+Philadelphia (pt.),Philadelphia,3,357956,31769,392103,2378
+Philadelphia (pt.),Philadelphia,5,38728,14973,53991,290
+Westmoreland (pt.),Westmoreland,13,6836,16003,23104,264
+Westmoreland (pt.),Westmoreland,14,65356,114296,181740,2089
+York (pt.),York,10,55440,73868,131296,1988
+York (pt.),York,11,32674,72865,107175,1636

@@ -1,0 +1,110 @@
+County,ShortName,CD,Biden,Trump,Total,
+Atlantic,Atlantic,2,73808,64438,140031,
+Cape May,CapeMay,2,23941,33158,57714,
+Cumberland,Cumberland,2,32742,28952,62408,
+Hunterdon,Hunterdon,7,39457,43153,84242,
+Salem,Salem,2,14479,18827,33922,
+,,,,,,
+,Split Counties,,,,,
+Bergen (pt.),Bergen,5,177822,130760,312159,3577
+Bergen (pt.),Bergen,8,2321,1467,3828,40
+Bergen (pt.),Bergen,9,105824,72190,179862,1848
+Burlington (pt.),Burlington,1,8167,5086,13429,176
+Burlington (pt.),Burlington,2,384,860,1260,16
+Burlington (pt.),Burlington,3,146021,97395,246780,3364
+Camden (pt.),Camden,1,172542,82618,258415,3255
+Camden (pt.),Camden,2,2523,3589,6201,89
+Essex (pt.),Essex,7,8559,2953,11659,147
+Essex (pt.),Essex,8,32326,12812,45496,358
+Essex (pt.),Essex,10,154363,14179,169840,1298
+Essex (pt.),Essex,11,71572,45531,118316,1213
+Gloucester (pt.),Gloucester,1,61504,55118,118368,1746
+Gloucester (pt.),Gloucester,2,25198,28222,54286,866
+Hudson (pt.),Hudson,8,123990,44926,170894,1978
+Hudson (pt.),Hudson,9,9825,7161,17151,165
+Hudson (pt.),Hudson,10,47637,13611,61805,557
+Mercer (pt.),Mercer,4,32043,25210,58054,801
+Mercer (pt.),Mercer,12,90489,26431,118550,1630
+Middlesex (pt.),Middlesex,6,131301,77994,211839,2544
+Middlesex (pt.),Middlesex,12,94949,65473,162523,2101
+Monmouth (pt.),Monmouth,4,121128,130883,255412,3401
+Monmouth (pt.),Monmouth,6,60163,60925,122739,1651
+Morris (pt.),Morris,7,35323,34991,71387,1073
+Morris (pt.),Morris,11,118558,106143,227935,3234
+Ocean (pt.),Ocean,2,10175,16320,26863,368
+Ocean (pt.),Ocean,3,71179,120617,194556,2760
+Ocean (pt.),Ocean,4,38102,80803,120097,1192
+Passaic (pt.),Passaic,5,9762,13218,23425,445
+Passaic (pt.),Passaic,9,84370,39025,124610,1215
+Passaic (pt.),Passaic,11,34965,39766,75672,941
+Somerset (pt.),Somerset,7,80132,58271,140499,2096
+Somerset (pt.),Somerset,12,31041,13725,45360,594
+Sussex (pt.),Sussex,5,21590,35121,57888,1177
+Sussex (pt.),Sussex,11,12891,16577,30072,604
+Union (pt.),Union,7,66496,44431,112410,1483
+Union (pt.),Union,8,24326,10002,34584,256
+Union (pt.),Union,10,52725,17521,70903,657
+Union (pt.),Union,12,26698,8048,35094,348
+Warren (pt.),Warren,5,15763,23320,39824,741
+Warren (pt.),Warren,7,9138,11449,20963,376
+,,,,,,
+,Split E/A/P Votes,,,,,
+Bergen (pt.),Bergen,5,0,0,0,0
+Bergen (pt.),Bergen,8,0,0,0,0
+Bergen (pt.),Bergen,9,0,0,0,0
+Burlington (pt.),Burlington,1,1,0,1,0
+Burlington (pt.),Burlington,2,0,0,0,0
+Burlington (pt.),Burlington,3,22,4,26,1
+Camden (pt.),Camden,1,0,0,0,0
+Camden (pt.),Camden,2,0,0,0,0
+Essex (pt.),Essex,7,0,0,0,0
+Essex (pt.),Essex,8,0,0,0,0
+Essex (pt.),Essex,10,0,0,0,0
+Essex (pt.),Essex,11,0,0,0,0
+Gloucester (pt.),Gloucester,1,0,0,0,0
+Gloucester (pt.),Gloucester,2,0,0,0,0
+Hudson (pt.),Hudson,8,0,0,0,0
+Hudson (pt.),Hudson,9,0,0,0,0
+Hudson (pt.),Hudson,10,0,0,0,0
+Mercer (pt.),Mercer,4,0,0,0,0
+Mercer (pt.),Mercer,12,0,0,0,0
+Middlesex (pt.),Middlesex,6,0,0,0,0
+Middlesex (pt.),Middlesex,12,0,0,0,0
+Monmouth (pt.),Monmouth,4,0,0,0,0
+Monmouth (pt.),Monmouth,6,0,0,0,0
+Morris (pt.),Morris,7,0,0,0,0
+Morris (pt.),Morris,11,0,0,0,0
+Ocean (pt.),Ocean,2,0,0,0,0
+Ocean (pt.),Ocean,3,0,0,0,0
+Ocean (pt.),Ocean,4,0,0,0,0
+Passaic (pt.),Passaic,5,0,0,0,0
+Passaic (pt.),Passaic,9,0,0,0,0
+Passaic (pt.),Passaic,11,0,0,0,0
+Somerset (pt.),Somerset,7,0,0,0,0
+Somerset (pt.),Somerset,12,0,0,0,0
+Sussex (pt.),Sussex,5,0,0,0,0
+Sussex (pt.),Sussex,11,0,0,0,0
+Union (pt.),Union,7,0,0,0,0
+Union (pt.),Union,8,0,0,0,0
+Union (pt.),Union,10,0,0,0,0
+Union (pt.),Union,12,0,0,0,0
+Warren (pt.),Warren,5,0,0,0,0
+Warren (pt.),Warren,7,0,0,0,0
+,,,,,,
+Total E/A/P Votes,,,,,,
+Bergen (pt.),Bergen,EV,0,0,0,0
+Burlington (pt.),Burlington,EV,23,4,28,1
+Camden (pt.),Camden,EV,0,0,0,0
+Essex (pt.),Essex,EV,0,0,0,0
+Gloucester (pt.),Gloucester,EV,0,0,0,0
+Hudson (pt.),Hudson,EV,0,0,0,0
+Mercer (pt.),Mercer,EV,0,0,0,0
+Middlesex (pt.),Middlesex,EV,0,0,0,0
+Monmouth (pt.),Monmouth,EV,0,0,0,0
+Morris (pt.),Morris,EV,0,0,0,0
+Ocean (pt.),Ocean,EV,0,0,0,0
+Passaic (pt.),Passaic,EV,0,0,0,0
+Somerset (pt.),Somerset,EV,0,0,0,0
+Sussex (pt.),Sussex,EV,0,0,0,0
+Union (pt.),Union,EV,0,0,0,0
+Warren (pt.),Warren,EV,0,0,0,0

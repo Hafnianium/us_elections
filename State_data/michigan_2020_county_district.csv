@@ -1,0 +1,100 @@
+County,ShortName,CD,Biden,Trump,Total,
+Alcona,Alcona,1,2142,4848,7063,
+Alger,Alger,1,2053,3014,5128,
+Alpena,Alpena,1,6000,10686,16966,
+Antrim,Antrim,1,5960,9748,15949,
+Arenac,Arenac,5,2774,5928,8831,
+Baraga,Baraga,1,1478,2512,4036,
+Barry,Barry,3,11797,23471,35905,
+Bay,Bay,5,26151,33125,60253,
+Benzie,Benzie,1,5480,6601,12260,
+Berrien,Berrien,6,37438,43519,82379,
+Branch,Branch,7,6159,14064,20536,
+Calhoun,Calhoun,3,28877,36221,66276,
+Cass,Cass,6,9130,16699,26213,
+Charlevoix,Charlevoix,1,6939,9841,17000,
+Cheboygan,Cheboygan,1,5437,10186,15868,
+Chippewa,Chippewa,1,6648,10681,17640,
+Clare,Clare,4,5182,10824,16224,
+Clinton,Clinton,4,21044,24784,46662,
+Crawford,Crawford,1,2672,5087,7861,
+Delta,Delta,1,7606,13207,21151,
+Dickinson,Dickinson,1,4744,9617,14589,
+Eaton,Eaton,7,29651,31489,62313,
+Emmet,Emmet,1,9662,12135,22176,
+Genesee,Genesee,5,119390,98714,221316,
+Gladwin,Gladwin,4,4524,9893,14603,
+Gogebic,Gogebic,1,3570,4600,8266,
+Grand Traverse,GrandTraverse,1,28683,30502,60227,
+Gratiot,Gratiot,4,6693,12102,19126,
+Hillsdale,Hillsdale,7,5883,17037,23288,
+Houghton,Houghton,1,7750,10378,18501,
+Huron,Huron,10,5490,12731,18437,
+Ingham,Ingham,8,94212,47639,144505,
+Ionia,Ionia,3,10901,20657,32205,
+Iosco,Iosco,5,5373,9759,15359,
+Iron,Iron,1,2493,4216,6789,
+Isabella,Isabella,4,14090,14851,29465,
+Jackson,Jackson,7,31995,47372,80845,
+Kalamazoo,Kalamazoo,6,83686,56823,143376,
+Kalkaska,Kalkaska,1,3002,7436,10630,
+Keweenaw,Keweenaw,1,672,862,1557,
+Lake,Lake,2,2288,3946,6323,
+Lapeer,Lapeer,10,16367,35486,52644,
+Leelanau,Leelanau,1,8795,7916,16898,
+Lenawee,Lenawee,7,20918,31541,53374,
+Livingston,Livingston,8,48220,76982,127166,
+Luce,Luce,1,842,2109,3001,
+Mackinac,Mackinac,1,2632,4304,7015,
+Manistee,Manistee,1,6107,8321,14654,
+Marquette,Marquette,1,20465,16286,37458,
+Mecosta,Mecosta,4,7375,13267,21046,
+Menominee,Menominee,1,4316,8117,12606,
+Midland,Midland,4,20493,27675,49073,
+Missaukee,Missaukee,4,1967,6648,8754,
+Monroe,Monroe,7,32975,52710,87148,
+Montmorency,Montmorency,1,1628,4171,5859,
+Muskegon,Muskegon,2,45643,45133,92435,
+Newaygo,Newaygo,2,7873,18857,27156,
+Oceana,Oceana,2,4944,8892,14062,
+Ogemaw,Ogemaw,4,3475,8253,11907,
+Ontonagon,Ontonagon,1,1391,2358,3804,
+Osceola,Osceola,4,3214,8928,12329,
+Oscoda,Oscoda,1,1342,3466,4874,
+Otsego,Otsego,1,4743,9779,14756,
+Ottawa,Ottawa,2,64705,100913,168627,
+Presque Isle,PresqueIsle,1,2911,5342,8342,
+Roscommon,Roscommon,4,5166,9670,15018,
+Sanilac,Sanilac,10,5966,16190,22442,
+Schoolcraft,Schoolcraft,1,1589,3090,4745,
+Shiawassee,Shiawassee,4,15347,23149,39220,
+St. Clair,St.Clair,10,31363,59191,92069,
+St. Joseph,St.Joseph,6,9262,18127,27935,
+Van Buren,VanBuren,6,16797,21590,39056,
+Wexford,Wexford,4,5838,12102,18265,
+,,,,,,
+,Split County,,,,,
+Allegan (pt.),Allegan,2,626,643,1293,25
+Allegan (pt.),Allegan,6,23823,40749,65789,1216
+Kent (pt.),Kent,2,45813,39856,87467,1797
+Kent (pt.),Kent,3,142102,125885,273372,5386
+Macomb (pt.),Macomb,9,142017,127289,273094,3788
+Macomb (pt.),Macomb,10,81935,136574,221125,2616
+Mason (pt.),Mason,1,1650,3039,4742,52
+Mason (pt.),Mason,2,5152,7168,12507,188
+Montcalm (pt.),Montcalm,3,898,1528,2461,35
+Montcalm (pt.),Montcalm,4,8805,20287,29625,533
+Oakland (pt.),Oakland,8,69653,91028,163067,2386
+Oakland (pt.),Oakland,9,87241,47792,137009,1976
+Oakland (pt.),Oakland,11,144985,142363,291367,4019
+Oakland (pt.),Oakland,14,132269,44788,178766,1709
+Saginaw (pt.),Saginaw,4,18495,31691,50942,756
+Saginaw (pt.),Saginaw,5,32593,19094,52405,718
+Tuscola (pt.),Tuscola,5,2946,6592,9691,153
+Tuscola (pt.),Tuscola,10,5766,13705,19751,280
+Washtenaw (pt.),Washtenaw,7,35712,30061,66797,1025
+Washtenaw (pt.),Washtenaw,12,121424,26180,149483,1878
+Wayne (pt.),Wayne,11,92711,74436,169376,2229
+Wayne (pt.),Wayne,12,130346,108712,242596,3538
+Wayne (pt.),Wayne,13,229535,58162,291132,3435
+Wayne (pt.),Wayne,14,144578,23243,169279,1458

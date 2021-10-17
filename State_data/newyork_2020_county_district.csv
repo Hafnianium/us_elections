@@ -1,0 +1,179 @@
+County,ShortName,CD,Biden,Trump,Total,
+Albany,Albany,20,"99,474","51,081","153,452",
+Allegany,Allegany,23,6048,"14,135",20701,
+Cattaraugus,Cattaraugus,23,11879,"22,155",34751,
+Cayuga,Cayuga,24,16359,"19,632",36740,
+Chautauqua,Chautauqua,23,23088,"34,853",59172,
+Chemung,Chemung,23,16636,"21,922",39397,
+Chenango,Chenango,22,8300,"13,496",22299,
+Clinton,Clinton,21,18364,"16,514",35431,
+Columbia,Columbia,19,20386,"14,464",35507,
+Cortland,Cortland,22,10370,10789,21663,
+Delaware,Delaware,19,9143,"13,387",22958,
+Essex,Essex,21,9947,8976,19259,
+Franklin,Franklin,21,9253,9668,19264,
+Fulton,Fulton,21,7931,"15,378",23717,
+Genesee,Genesee,27,9625,"18,876",29204,
+Greene,Greene,19,10346,"14,271",25134,
+Hamilton,Hamilton,21,1178,2225,3459,
+Jefferson,Jefferson,21,17307,"25,629",43848,
+Lewis,Lewis,21,3824,8894,12937,
+Livingston,Livingston,27,12477,"18,182",31387,
+Madison,Madison,22,14805,"18,409",34026,
+Oneida,Oneida,22,41973,"57,860",101827,
+Onondaga,Onondaga,24,"138,991","91,715","235,933",
+Orange,Orange,18,84955,"85,068",172446,
+Orleans,Orleans,27,5587,"12,126",18147,
+Otsego,Otsego,19,12975,"14,382",27998,
+Putnam,Putnam,18,24955,"29,283",54966,
+Rockland,Rockland,17,75802,"73,186",150295,
+Schenectady,Schenectady,20,42465,"30,741",74826,
+Schoharie,Schoharie,19,5345,"9,903",15682,
+Schuyler,Schuyler,23,3903,5621,9738,
+Seneca,Seneca,23,6914,8329,15601,
+St. Lawrence,St. Lawrence,21,19361,"24,608",44779,
+Steuben,Steuben,23,15790,"29,474",46165,
+Sullivan,Sullivan,19,15489,"18,665",34636,
+Tompkins,Tompkins,23,33619,"11,096",45691,
+Ulster,Ulster,19,57970,"37,590",97401,
+Warren,Warren,21,17642,"17,699",36131,
+Washington,Washington,21,11565,"15,941",28093,
+Wayne,Wayne,24,17456,"26,204",44714,
+Wyoming,Wyoming,27,5073,"13,898",19394,
+Yates,Yates,23,4219,6208,10691,
+NYC - Staten Island,NYC_SI,11,90997,123320,216153,
+,,,,,,
+,Split Counties,,,,,
+Broome (pt.),Broome,19,351,731,"1,096",14
+Broome (pt.),Broome,22,"46,659","43,070","91,623","1,894"
+Dutchess (pt.),Dutchess,18,"48,659","36,884","86,898","1,355"
+Dutchess (pt.),Dutchess,19,"32,784","29,988","63,755",983
+Erie (pt.),Erie,26,"191,886","104,049","301,135","5,200"
+Erie (pt.),Erie,27,"75,384","93,503","172,009","3,122"
+Herkimer (pt.),Herkimer,21,"1,467","3,248","4,798",83
+Herkimer (pt.),Herkimer,22,"8,472","15,623","24,519",424
+Monroe (pt.),Monroe,25,"218,504","137,342","363,605","7,759"
+Monroe (pt.),Monroe,27,"7,242","8,319","15,981",420
+Montgomery (pt.),Montgomery,19,"2,010","4,222","6,353",121
+Montgomery (pt.),Montgomery,20,"5,967","8,523","14,777",287
+Nassau (pt.),Nassau,2,"43,689","65,676","110,612","1,247"
+Nassau (pt.),Nassau,3,"110,559","87,716","200,235","1,960"
+Nassau (pt.),Nassau,4,"211,700","165,073","380,697","3,924"
+Nassau (pt.),Nassau,5,"30,556","8,251","39,095",288
+Niagara (pt.),Niagara,26,"18,071","15,361","34,121",689
+Niagara (pt.),Niagara,27,"27,958","40,707","69,959","1,294"
+Ontario (pt.),Ontario,23,"9,758","10,088","20,376",530
+Ontario (pt.),Ontario,27,"18,991","18,694","38,730","1,045"
+Oswego (pt.),Oswego,22,"6,968","14,471","21,902",463
+Oswego (pt.),Oswego,24,"14,177","17,671","32,574",726
+Rensselaer (pt.),Rensselaer,19,"16,166","19,966","36,962",830
+Rensselaer (pt.),Rensselaer,20,"24,803","16,534","42,283",946
+Saratoga (pt.),Saratoga,20,"44,631","34,740","81,044","1,673"
+Saratoga (pt.),Saratoga,21,"23,840","26,565","51,560","1,155"
+Suffolk (pt.),Suffolk,1,"182,793","198,826","386,329","4,710"
+Suffolk (pt.),Suffolk,2,"125,090","117,528","245,512","2,894"
+Suffolk (pt.),Suffolk,3,"73,138","64,899","139,700","1,663"
+Tioga (pt.),Tioga,22,"2,451","3,429","6,037",157
+Tioga (pt.),Tioga,23,"7,183","11,362","18,993",448
+Westchester (pt.),Westchester,16,"150,373","62,382","214,848","2,093"
+Westchester (pt.),Westchester,17,"136,452","67,136","205,908","2,320"
+Westchester (pt.),Westchester,18,"25,612","15,213","41,406",581
+NYC - Bronx (pt.),NYC_BX,13,"45,396","8,858","54,627",373
+NYC - Bronx (pt.),NYC_BX,14,"56,241","21,744","78,568",583
+NYC - Bronx (pt.),NYC_BX,15,"171,328","25,855","198,198","1,015"
+NYC - Bronx (pt.),NYC_BX,16,"82,409","11,283","94,322",630
+NYC - Brooklyn (pt.),NYC_BK,7,"140,222","26,686","168,399","1,491"
+NYC - Brooklyn (pt.),NYC_BK,8,"225,199","37,106","264,046","1,741"
+NYC - Brooklyn (pt.),NYC_BK,9,"232,347","50,873","285,350","2,130"
+NYC - Brooklyn (pt.),NYC_BK,10,"33,550","43,246","77,415",619
+NYC - Brooklyn (pt.),NYC_BK,11,"41,369","40,537","82,710",804
+NYC - Brooklyn (pt.),NYC_BK,12,"30,623","4,324","35,326",379
+NYC - Manhattan (pt.),NYC_MN,7,"25,424","5,502","31,200",274
+NYC - Manhattan (pt.),NYC_MN,10,"184,591","22,365","209,112","2,156"
+NYC - Manhattan (pt.),NYC_MN,12,"205,187","36,650","244,347","2,510"
+NYC - Manhattan (pt.),NYC_MN,13,"187,838","20,668","210,245","1,739"
+NYC - Queens (pt.),NYC_QN,3,"32,550","22,474","55,501",477
+NYC - Queens (pt.),NYC_QN,5,"198,903","36,244","236,413","1,266"
+NYC - Queens (pt.),NYC_QN,6,"152,725","92,371","247,255","2,159"
+NYC - Queens (pt.),NYC_QN,7,"25,165","8,178","33,622",279
+NYC - Queens (pt.),NYC_QN,8,"9,761","9,605","19,508",142
+NYC - Queens (pt.),NYC_QN,12,"44,202","8,363","53,147",582
+NYC - Queens (pt.),NYC_QN,14,"105,732","35,430","142,414","1,252"
+,,,,,,
+,Split E/A/P Votes,,,,,
+Broome (pt.),Broome,19,0,0,0,0
+Broome (pt.),Broome,22,0,0,0,0
+Dutchess (pt.),Dutchess,18,0,0,0,0
+Dutchess (pt.),Dutchess,19,0,0,0,0
+Erie (pt.),Erie,26,0,0,0,0
+Erie (pt.),Erie,27,0,0,0,0
+Herkimer (pt.),Herkimer,21,0,0,0,0
+Herkimer (pt.),Herkimer,22,0,0,0,0
+Monroe (pt.),Monroe,25,0,0,0,0
+Monroe (pt.),Monroe,27,0,0,0,0
+Montgomery (pt.),Montgomery,19,0,0,0,0
+Montgomery (pt.),Montgomery,20,0,0,0,0
+Nassau (pt.),Nassau,2,0,0,0,0
+Nassau (pt.),Nassau,3,0,0,0,0
+Nassau (pt.),Nassau,4,0,0,0,0
+Nassau (pt.),Nassau,5,0,0,0,0
+Niagara (pt.),Niagara,26,0,0,0,0
+Niagara (pt.),Niagara,27,0,0,0,0
+Ontario (pt.),Ontario,23,0,0,0,0
+Ontario (pt.),Ontario,27,0,0,0,0
+Oswego (pt.),Oswego,22,0,0,0,0
+Oswego (pt.),Oswego,24,0,0,0,0
+Rensselaer (pt.),Rensselaer,19,0,0,0,0
+Rensselaer (pt.),Rensselaer,20,0,0,0,0
+Saratoga (pt.),Saratoga,20,0,0,0,0
+Saratoga (pt.),Saratoga,21,0,0,0,0
+Suffolk (pt.),Suffolk,1,0,0,0,0
+Suffolk (pt.),Suffolk,2,0,0,0,0
+Suffolk (pt.),Suffolk,3,0,0,0,0
+Tioga (pt.),Tioga,22,0,0,0,0
+Tioga (pt.),Tioga,23,0,0,0,0
+Westchester (pt.),Westchester,16,0,0,0,0
+Westchester (pt.),Westchester,17,0,0,0,0
+Westchester (pt.),Westchester,18,0,0,0,0
+NYC - Bronx (pt.),NYC_BX,13,0,0,0,0
+NYC - Bronx (pt.),NYC_BX,14,0,0,0,0
+NYC - Bronx (pt.),NYC_BX,15,0,0,0,0
+NYC - Bronx (pt.),NYC_BX,16,0,0,0,0
+NYC - Brooklyn (pt.),NYC_BK,7,0,0,0,0
+NYC - Brooklyn (pt.),NYC_BK,8,0,0,0,0
+NYC - Brooklyn (pt.),NYC_BK,9,0,0,0,0
+NYC - Brooklyn (pt.),NYC_BK,10,0,0,0,0
+NYC - Brooklyn (pt.),NYC_BK,11,0,0,0,0
+NYC - Brooklyn (pt.),NYC_BK,12,0,0,0,0
+NYC - Manhattan (pt.),NYC_MN,7,0,0,0,0
+NYC - Manhattan (pt.),NYC_MN,10,0,0,0,0
+NYC - Manhattan (pt.),NYC_MN,12,0,0,0,0
+NYC - Manhattan (pt.),NYC_MN,13,0,0,0,0
+NYC - Queens (pt.),NYC_QN,3,0,0,0,0
+NYC - Queens (pt.),NYC_QN,5,0,0,0,0
+NYC - Queens (pt.),NYC_QN,6,0,0,0,0
+NYC - Queens (pt.),NYC_QN,7,0,0,0,0
+NYC - Queens (pt.),NYC_QN,8,0,0,0,0
+NYC - Queens (pt.),NYC_QN,12,0,0,0,0
+NYC - Queens (pt.),NYC_QN,14,0,0,0,0
+,,,,,,
+Total E/A/P Votes,,,,,,
+Broome (pt.),Broome,EV,0,0,0,0
+Dutchess (pt.),Dutchess,EV,0,0,0,0
+Erie (pt.),Erie,EV,0,0,0,0
+Herkimer (pt.),Herkimer,EV,0,0,0,0
+Monroe (pt.),Monroe,EV,0,0,0,0
+Montgomery (pt.),Montgomery,EV,0,0,0,0
+Nassau (pt.),Nassau,EV,0,0,0,0
+Niagara (pt.),Niagara,EV,0,0,0,0
+Ontario (pt.),Ontario,EV,0,0,0,0
+Oswego (pt.),Oswego,EV,0,0,0,0
+Rensselaer (pt.),Rensselaer,EV,0,0,0,0
+Saratoga (pt.),Saratoga,EV,0,0,0,0
+Suffolk (pt.),Suffolk,EV,0,0,0,0
+Tioga (pt.),Tioga,EV,0,0,0,0
+Westchester (pt.),Westchester,EV,0,0,0,0
+NYC - Bronx (pt.),NYC_BX,EV,0,0,0,0
+NYC - Brooklyn (pt.),NYC_BK,EV,0,0,0,0
+NYC - Manhattan (pt.),NYC_MN,EV,0,0,0,0
+NYC - Queens (pt.),NYC_QN,EV,0,0,0,0

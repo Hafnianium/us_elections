@@ -1,0 +1,77 @@
+County,ShortName,CD,Biden,Trump,Total,
+Alamosa,Alamosa,3,3759,3813,7808,
+Archuleta,Archuleta,3,3738,5189,9144,
+Baca,Baca,4,317,1867,2225,
+Bent,Bent,4,732,1503,2274,
+Broomfield,Broomfield,2,29077,16295,46632,
+Chaffee,Chaffee,5,7160,6222,13717,
+Cheyenne,Cheyenne,4,131,993,1136,
+Clear Creek,ClearCreek,2,3604,2754,6548,
+Conejos,Conejos,3,1959,2286,4333,
+Costilla,Costilla,3,1311,741,2094,
+Crowley,Crowley,4,437,1271,1750,
+Custer,Custer,3,1112,2474,3634,
+Delta,Delta,3,5887,13081,19370,
+Denver,Denver,1,313293,71618,393827,
+Dolores,Dolores,3,341,1089,1449,
+El Paso,ElPaso,5,161941,202828,378849,
+Elbert,Elbert,4,4490,14027,18983,
+Fremont,Fremont,5,7369,17517,25557,
+Garfield,Garfield,3,15427,14717,30904,
+Gilpin,Gilpin,2,2223,1833,4186,
+Grand,Grand,2,4710,4883,9870,
+Gunnison,Gunnison,3,7132,3735,11190,
+Hinsdale,Hinsdale,3,255,353,632,
+Huerfano,Huerfano,3,2076,2203,4406,
+Jackson,Jackson,3,175,681,876,
+Kiowa,Kiowa,4,98,795,903,
+Kit Carson,KitCarson,4,662,3144,3871,
+La Plata,LaPlata,3,20548,14233,35667,
+Lake,Lake,3,2303,1497,3961,
+Larimer,Larimer,2,126120,91489,224338,
+Las Animas,LasAnimas,4,3497,4284,7961,
+Lincoln,Lincoln,4,470,2135,2651,
+Logan,Logan,4,2218,8087,10532,
+Mesa,Mesa,3,31536,56894,90622,
+Mineral,Mineral,3,317,427,756,
+Moffat,Moffat,3,1203,5670,7026,
+Montezuma,Montezuma,3,5836,9306,15500,
+Montrose,Montrose,3,7687,16770,24922,
+Morgan,Morgan,4,3876,9593,13744,
+Otero,Otero,4,3605,5756,9576,
+Ouray,Ouray,3,2365,1577,4020,
+Phillips,Phillips,4,486,1958,2485,
+Pitkin,Pitkin,3,8989,2780,11957,
+Prowers,Prowers,4,1458,4008,5561,
+Pueblo,Pueblo,3,43772,42252,88299,
+Rio Blanco,RioBlanco,3,561,3061,3691,
+Rio Grande,RioGrande,3,2495,3660,6305,
+Routt,Routt,3,10582,5925,16876,
+Saguache,Saguache,3,1884,1413,3389,
+San Juan,SanJuan,3,342,202,562,
+San Miguel,SanMiguel,3,3924,1136,5147,
+Sedgwick,Sedgwick,4,301,1121,1446,
+Summit,Summit,2,12631,5322,18479,
+Teller,Teller,5,5278,11241,16939,
+Washington,Washington,4,369,2595,3008,
+Weld,Weld,4,66060,96145,166968,
+Yuma,Yuma,4,785,4107,4981,
+,,,,,,
+,Split Counties,,,,,
+Adams (pt.),Adams,4,"1,172","3,654","4,988",162
+Adams (pt.),Adams,6,"32,301","28,529","62,455","1,625"
+Adams (pt.),Adams,7,"100,729","63,474","169,292","5,089"
+Arapahoe (pt.),Arapahoe,1,"20,969","9,806","31,719",944
+Arapahoe (pt.),Arapahoe,4,"1,170","3,885","5,181",126
+Arapahoe (pt.),Arapahoe,6,"191,468","113,632","313,283","8,183"
+Boulder (pt.),Boulder,2,"120,232","24,822","147,988","2,934"
+Boulder (pt.),Boulder,4,"38,857","17,679","58,123","1,587"
+Douglas (pt.),Douglas,4,"67,780","87,702","159,581","4,099"
+Douglas (pt.),Douglas,6,"36,873","33,568","72,018","1,577"
+Eagle (pt.),Eagle,2,"5,218","2,061","7,459",180
+Eagle (pt.),Eagle,3,"13,370","7,831","21,681",480
+Jefferson (pt.),Jefferson,1,"23,587","23,115","47,957","1,255"
+Jefferson (pt.),Jefferson,2,"32,096","25,672","59,385","1,617"
+Jefferson (pt.),Jefferson,7,"162,713","99,630","270,015","7,672"
+Park (pt.),Park,2,"2,350","3,430","5,982",202
+Park (pt.),Park,5,"2,553","3,561","6,308",194
