@@ -1,2 +1,10 @@
-# us_elections
-Amateur analysis of the 2020 US elections based on the methods described by Klimek et al.
+# Amateur Analysis of the 2020 US Election
+
+In the run-up to the 2020 US election, then president Donald Trump began claiming the results could not be trusted and the election would likely be fraudulent. As results of the election came in, many on social media began pointing out that the results violated [Benford's Law](https://www.cambridge.org/core/journals/political-analysis/article/benfords-law-and-the-detection-of-election-fraud/3B1D64E822371C461AF3C61CE91AAF6D) and [used this observation as proof of fraud](https://www.reuters.com/article/uk-factcheck-benford-idUSKBN27Q3AI). It should be noted that the use of Benford's Law is oftenc ontroversial and in application of voting precincts which often have small numbers of votes, the use of Benford's Law is inapproporiate.
+
+In 2012, [Klimek et al.](https://www.pnas.org/content/109/41/16469#ref-11) published a method of detecting fraudulent elections through analysis of voting rate and the percentage of votes for the winner in all of the voting precincts. Comparing fraudulent-suspected elections in Russia and Uganda to legitimate elections in Austria, Canada, Finland, the Czech Republic and others, it could be seen that the elections in Russia and Uganda had a significant number of precincts reporting abnormally high voter turnout and percentage of votes for the winning candidate/party.
+
+As an exercise, the methods reported by Klimek et al. were repeated for the 2020 US Election here. Voting age population off congressional districts was taken from [2018 US Census Data](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/congressional-voting-tables.html) and vote tallies for the Presidential Candidate sin the 2020 US election were taken from the [Daily KOS Database](https://www.dailykos.com/stories/2013/07/09/1220127/-Daily-Kos-Elections-2012-election-results-by-congressional-and-legislative-districts).
+
+It should be noted that this analysis uses the 2018 census data as it is the latest available which could cause some deviation from real voting rates. Additionally, method described Klimek et al. uses voting rates on the voter precinct level, whereas this analysis uses data on the American congressional district level which is one aggregate level higher. This was due to lack of accessible voting age population data on the precinct level. Accordingly, this analysis does not achieve the same level of resolution in the histogram. 
+
